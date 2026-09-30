@@ -1,0 +1,7530 @@
+{
+	"serverfolder": "MEDIUMRP",
+	"files":
+    [
+        { 	// MEDIUMRP_SFX
+            "url": "https://raw.githubusercontent.com/NicktonyousZ/MediumRP-Content/refs/heads/main/MEDIUMRP_SFX.cbpak",
+            "export": "MEDIUMRP_SFX.cbpak",
+            "hash": "7ad5b6de58470ee6c93e8cf1dc39ab61"
+        },
+        {	// MEDIUMRP_GFX_CONT_WEAPONS
+            "url": "https://raw.githubusercontent.com/NicktonyousZ/MediumRP-Content/refs/heads/main/MEDIUMRP_GFX_CONT_WEAPONS.cbpak",
+            "export": "MEDIUMRP_GFX_CONT_WEAPONS.cbpak",
+            "hash": "dd9b1bfa3b7959fcaf248d823d6807a7"
+        },
+        {	// MEDIUMRP_CHARACTERS
+            "url": "https://raw.githubusercontent.com/NicktonyousZ/MediumRP-Content/refs/heads/main/MEDIUMRP_CHARACTERS.cbpak",
+            "export": "MEDIUMRP_CHARACTERS.cbpak",
+            "hash": "95dd5904e49c8f1453c5bed000cf8f2d"
+        }
+    ],
+	"playertextures": [
+	{
+			"id": 33,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/E11.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 34,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/E11(2).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 35,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/E11(3).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 36,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/E11(4).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 37,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/Guard_MP.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 38,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/GBR.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 39,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/BETA7.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 40,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/FBI.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 41,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/FSB.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 42,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Janitor/janitor1.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 43,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Janitor/janitor2.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 44,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Janitor/janitor3.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 45,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Janitor/janitor4.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 46,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Janitor/janitor5.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 47,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Janitor/janitor6.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 48,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Janitor/janitor7.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 49,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Scientist/scientist(6).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 50,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Scientist/scientist(7).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 51,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Scientist/scientist(8).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 52,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Scientist/scientist(9).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 53,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Scientist/scientist(10).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 54,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Scientist/scientist(11).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 55,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Scientist/scientist(12).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 56,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Scientist/scientist(13).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 57,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Scientist/scientist(14).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 58,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Scientist/scientist(15).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 59,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Scientist/scientist(16).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 60,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Scientist/scientist(17).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 61,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Scientist/scientist(18).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 62,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Maintenance/maintanance.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 63,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Maintenance/maintanance(2).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 64,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Maintenance/maintenance(3).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 65,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Maintenance/maintenance(4).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 66,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Medical/medical.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 67,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Medical/medical(1).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 68,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Medical/medical(2).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 69,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Medical/medical(3).jpg",
+			"terminatefilename": ""
+		},
+		{
+			"id": 70,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Class_D/class_d(7).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 71,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Class_D/class_d(8).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 72,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Class_D/class_d(9).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 73,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Class_D/class_d(10).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 74,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Class_D/class_d(11).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 75,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Class_D/class_d(12).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 76,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Class_D/class_d(13).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 77,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Class_D/class_d(14).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 78,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Class_D/class_d(15).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 79,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/class_d_cafeteria.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 80,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/class_d_janitor.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 81,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/class_d_janitor(2).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 82,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/class_d_janitor(3).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 83,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/class_d_janitor(4).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 84,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/class_d_janitor(5).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 85,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/class_d_janitor(6).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 86,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/class_d_janitor(15).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 87,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/class_d_rogue.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 88,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/ethics_com.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 89,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/ethics_com(1).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 90,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/ethics_com(2).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 91,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/ethics_com(3).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 92,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/logistics.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 93,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/logistics(1).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 94,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/logistics(2).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 95,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/site_director.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 96,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/site_director(1).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 97,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Events/site_director(2).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 98,
+			"filename": "GFX/NPCs/Burton.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 99,
+			"filename": "GFX/NPCs/D_9341(2).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 100,
+			"filename": "GFX/NPCs/scp_008_1.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 101,
+			"filename": "GFX/NPCs/scp_008_1(2).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 102,
+			"filename": "GFX/NPCs/scp_008_1(3).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 103,
+			"filename": "GFX/NPCs/scp_035_victim.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 104,
+			"filename": "GFX/NPCs/scp_035_victim_corpse.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 105,
+			"filename": "GFX/NPCs/scp_106_victim_femur_breaker.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 106,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Victims/scp_106_janitor_victim.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 107,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Victims/scp_106_classd_victim.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 108,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Victims/scp_106_classd_victim(2).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 109,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Victims/scp_106_classd_victim(3).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 110,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Victims/scp_106_maintenance_victim.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 111,
+			"filename": "GFX/NPCs/scp_457_victim(0).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 112,
+			"filename": "GFX/NPCs/scp_457_victim(1).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 113,
+			"filename": "GFX/NPCs/scp_939_victim.png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 114,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/STAFF/Victims/scp_939_victim(1).png",
+			"terminatefilename": ""
+		},
+		{
+			"id": 115,
+			"filename": "GFX/NPCs/scp_939_victim(2).png",
+			"terminatefilename": ""
+		}
+	],
+	"playermodels": [
+		//============================================================================================================================= GUARD PLAYERMODEL GUARD PLAYERMODEL
+		//============================================================================================================================= GUARD PLAYERMODEL GUARD PLAYERMODEL
+		{
+			"id": 22,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/Guard_mp.b3d",
+			"offsety": -0.3,
+			"offsetyaw": 90,
+			"headbone": "head",
+			"spinebone": "spine",
+			"handbone": "hand_r",
+			"forearmbone": "",
+			"maximumspinepitch": 30,
+			"maximumspinepitchdist": 60,
+			"maximumheadpitch": 75,
+			"fixedspinerotation": 40,
+			"usedefaultrolls": true,
+			"collisionradius": 0.26,
+			"scale": 0.11111111,
+			"stepsound": "-",
+			"blobshadowsize": 0.26,
+			"stamina": 0.5,
+			"speed": 0,
+			"viewoffsety": 0,
+			"holdingitemoffsetx": 0,
+			"holdingitemoffsety": 0,
+			"holdingitemoffsetz": 0,
+			"holdingitemoffsetpitch": 0,
+			"holdingitemoffsetyaw": 0,
+			"holdingitemoffsetroll": 0,
+			"hitboxwidth": 1.2,
+			"hitboxheight": 4.5,
+			"hitboxdepth": 1.2,
+			"movesound": "",
+			"disableroll": false,
+			"disablebloodloss": false,
+			"disableinjuries": false,
+			"flippitch": false,
+			"disableinteractitems": false,
+			"rotationmode": 1,
+			"comparedspinerotation": true,
+			"disablejump": false,
+			"material": 0,
+			"collisiontype": 0,
+			"emitterbones": "",
+			"boneemitter": 0,
+			"copyattaches": 0,
+			"constantinvisibility": false,
+			"forearmholdingpitch": 0,
+			"forearmholdingyaw": 0,
+			"forearmholdingroll": 0,
+			"lightradius": 0,
+			"lightshadows": false,
+			"lightr": 0,
+			"lightg": 0,
+			"lightb": 0,
+			"lightscattering": 0,
+			"idlesounds": [],
+			"animations": [
+				{
+					"id": 1,
+					"start": 2079,
+					"end": 2224,
+					"speed": 0.6,
+					"stepaccum": 0,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 2,
+					"start": 2228,
+					"end": 2275,
+					"speed": 0.6,
+					"stepaccum": 45,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 3,
+					"start": 2227,
+					"end": 2276,
+					"speed": 1,
+					"stepaccum": 30,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 4,
+					"start": 2279,
+					"end": 2280,
+					"speed": 0.1,
+					"stepaccum": 0,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 5,
+					"start": 2338,
+					"end": 2391,
+					"speed": 0.6,
+					"stepaccum": 45,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 6,
+					"start": 2421,
+					"end": 2431,
+					"speed": 0.1,
+					"stepaccum": 0,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 7,
+					"start": 2390,
+					"end": 2419,
+					"speed": 0.8,
+					"stepaccum": 35,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 10,
+					"start": 116,
+					"end": 288,
+					"speed": 0.5,
+					"stepaccum": 0,
+					"bones": "spine@chest@shoulder_L@upper_arm_L@forearm_L@hand_L@palm_04_L@f_pinky_01_L@f_pinky_02_L@f_pinky_03_L@palm_03_L@f_ring_01_L@f_ring_02_L@f_ring_03_L@palm_02_L@f_middle_01_L@f_middle_02_L@f_middle_03_L@palm_01_L@f_index_01_L@f_index_02_L@f_index_03_L@thumb_01_L@thumb_02_L@thumb_03_L@shoulder_R@upper_arm_R@forearm_R@hand_R@thumb_03_R@thumb_02_R@thumb_01_R@palm_01_R@f_index_01_R@f_index_02_R@f_index_03_R@palm_02_R@f_middle_01_R@f_middle_02_R@f_middle_03_R@palm_03_R@f_ring_01_R@f_ring_02_R@f_ring_03_R@palm_04_R@f_pinky_01_R@f_pinky_02_R@f_pinky_03_R",
+					"disablespine": false
+				},
+				{
+					"id": 15,
+					"start": 116,
+					"end": 288,
+					"speed": 0.5,
+					"stepaccum": 0,
+					"bones": "spine@chest@shoulder_L@upper_arm_L@forearm_L@hand_L@palm_04_L@f_pinky_01_L@f_pinky_02_L@f_pinky_03_L@palm_03_L@f_ring_01_L@f_ring_02_L@f_ring_03_L@palm_02_L@f_middle_01_L@f_middle_02_L@f_middle_03_L@palm_01_L@f_index_01_L@f_index_02_L@f_index_03_L@thumb_01_L@thumb_02_L@thumb_03_L@shoulder_R@upper_arm_R@forearm_R@hand_R@thumb_03_R@thumb_02_R@thumb_01_R@palm_01_R@f_index_01_R@f_index_02_R@f_index_03_R@palm_02_R@f_middle_01_R@f_middle_02_R@f_middle_03_R@palm_03_R@f_ring_01_R@f_ring_02_R@f_ring_03_R@palm_04_R@f_pinky_01_R@f_pinky_02_R@f_pinky_03_R",
+					"disablespine": false
+				},
+				{
+					"id": 25,
+					"start": 2433,
+					"end": 2517,
+					"speed": 0.6,
+					"stepaccum": 0,
+					"bones": "spine@chest@shoulder_L@upper_arm_L@forearm_L@hand_L@palm_04_L@f_pinky_01_L@f_pinky_02_L@f_pinky_03_L@palm_03_L@f_ring_01_L@f_ring_02_L@f_ring_03_L@palm_02_L@f_middle_01_L@f_middle_02_L@f_middle_03_L@palm_01_L@f_index_01_L@f_index_02_L@f_index_03_L@thumb_01_L@thumb_02_L@thumb_03_L@shoulder_R@upper_arm_R@forearm_R@hand_R@thumb_03_R@thumb_02_R@thumb_01_R@palm_01_R@f_index_01_R@f_index_02_R@f_index_03_R@palm_02_R@f_middle_01_R@f_middle_02_R@f_middle_03_R@palm_03_R@f_ring_01_R@f_ring_02_R@f_ring_03_R@palm_04_R@f_pinky_01_R@f_pinky_02_R@f_pinky_03_R",
+					"disablespine": false
+				},
+				{
+					"id": 26,
+					"start": 2433,
+					"end": 2517,
+					"speed": 0.6,
+					"stepaccum": 0,
+					"bones": "spine@chest@shoulder_L@upper_arm_L@forearm_L@hand_L@palm_04_L@f_pinky_01_L@f_pinky_02_L@f_pinky_03_L@palm_03_L@f_ring_01_L@f_ring_02_L@f_ring_03_L@palm_02_L@f_middle_01_L@f_middle_02_L@f_middle_03_L@palm_01_L@f_index_01_L@f_index_02_L@f_index_03_L@thumb_01_L@thumb_02_L@thumb_03_L@shoulder_R@upper_arm_R@forearm_R@hand_R@thumb_03_R@thumb_02_R@thumb_01_R@palm_01_R@f_index_01_R@f_index_02_R@f_index_03_R@palm_02_R@f_middle_01_R@f_middle_02_R@f_middle_03_R@palm_03_R@f_ring_01_R@f_ring_02_R@f_ring_03_R@palm_04_R@f_pinky_01_R@f_pinky_02_R@f_pinky_03_R",
+					"disablespine": false
+				},
+				{
+					"id": 27,
+					"start": 66,
+					"end": 105,
+					"speed": 0.8,
+					"stepaccum": 0,
+					"bones": "spine@chest@shoulder_L@upper_arm_L@forearm_L@hand_L@palm_04_L@f_pinky_01_L@f_pinky_02_L@f_pinky_03_L@palm_03_L@f_ring_01_L@f_ring_02_L@f_ring_03_L@palm_02_L@f_middle_01_L@f_middle_02_L@f_middle_03_L@palm_01_L@f_index_01_L@f_index_02_L@f_index_03_L@thumb_01_L@thumb_02_L@thumb_03_L@shoulder_R@upper_arm_R@forearm_R@hand_R@thumb_03_R@thumb_02_R@thumb_01_R@palm_01_R@f_index_01_R@f_index_02_R@f_index_03_R@palm_02_R@f_middle_01_R@f_middle_02_R@f_middle_03_R@palm_03_R@f_ring_01_R@f_ring_02_R@f_ring_03_R@palm_04_R@f_pinky_01_R@f_pinky_02_R@f_pinky_03_R",
+					"disablespine": false
+				},
+				{
+					"id": 28,
+					"start": 2521,
+					"end": 2530,
+					"speed": 0.6,
+					"stepaccum": 0,
+					"bones": "spine@chest@shoulder_R@upper_arm_R@forearm_R@hand_R@thumb_03_R@thumb_02_R@thumb_01_R@palm_01_R@f_index_01_R@f_index_02_R@f_index_03_R@palm_02_R@f_middle_01_R@f_middle_02_R@f_middle_03_R@palm_03_R@f_ring_01_R@f_ring_02_R@f_ring_03_R@palm_04_R@f_pinky_01_R@f_pinky_02_R@f_pinky_03_R",
+					"disablespine": false
+				},
+				{
+					"id": 29,
+					"start": 2520,
+					"end": 2520,
+					"speed": 0.8,
+					"stepaccum": 0,
+					"bones": "spine@chest@shoulder_L@upper_arm_L@forearm_L@hand_L@palm_04_L@f_pinky_01_L@f_pinky_02_L@f_pinky_03_L@palm_03_L@f_ring_01_L@f_ring_02_L@f_ring_03_L@palm_02_L@f_middle_01_L@f_middle_02_L@f_middle_03_L@palm_01_L@f_index_01_L@f_index_02_L@f_index_03_L@thumb_01_L@thumb_02_L@thumb_03_L@shoulder_R@upper_arm_R@forearm_R@hand_R@thumb_03_R@thumb_02_R@thumb_01_R@palm_01_R@f_index_01_R@f_index_02_R@f_index_03_R@palm_02_R@f_middle_01_R@f_middle_02_R@f_middle_03_R@palm_03_R@f_ring_01_R@f_ring_02_R@f_ring_03_R@palm_04_R@f_pinky_01_R@f_pinky_02_R@f_pinky_03_R",
+					"disablespine": false
+				}
+			],
+			"deadanimations": [
+				{
+					"id": 0,
+					"start": 10,
+					"end": 40,
+					"speed": 0.45
+				}
+			]
+		},
+		//============================================================================================================================= MTF PLAYERMODEL MTF PLAYERMODEL
+		//============================================================================================================================= MTF PLAYERMODEL MTF PLAYERMODEL
+		{
+			"id": 21,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/MTF_m.b3d",
+			"offsety": -0.3,
+			"offsetyaw": 90,
+			"headbone": "head",
+			"spinebone": "spine",
+			"handbone": "hand_r",
+			"forearmbone": "",
+			"maximumspinepitch": 30,
+			"maximumspinepitchdist": 60,
+			"maximumheadpitch": 75,
+			"fixedspinerotation": 40,
+			"usedefaultrolls": true,
+			"collisionradius": 0.26,
+			"scale": 0.11111111,
+			"stepsound": "-",
+			"blobshadowsize": 0.26,
+			"stamina": 0.45,
+			"speed": 0,
+			"viewoffsety": 0,
+			"holdingitemoffsetx": 0,
+			"holdingitemoffsety": 0,
+			"holdingitemoffsetz": 0,
+			"holdingitemoffsetpitch": 0,
+			"holdingitemoffsetyaw": 0,
+			"holdingitemoffsetroll": 0,
+			"hitboxwidth": 1.2,
+			"hitboxheight": 4.5,
+			"hitboxdepth": 1.2,
+			"movesound": "",
+			"disableroll": false,
+			"disablebloodloss": false,
+			"disableinjuries": false,
+			"flippitch": false,
+			"disableinteractitems": false,
+			"rotationmode": 1,
+			"comparedspinerotation": true,
+			"disablejump": false,
+			"material": 0,
+			"collisiontype": 0,
+			"emitterbones": "",
+			"boneemitter": 0,
+			"copyattaches": 0,
+			"constantinvisibility": false,
+			"forearmholdingpitch": 0,
+			"forearmholdingyaw": 0,
+			"forearmholdingroll": 0,
+			"lightradius": 0,
+			"lightshadows": false,
+			"lightr": 0,
+			"lightg": 0,
+			"lightb": 0,
+			"lightscattering": 0,
+			"idlesounds": [],
+			"animations": [
+				{
+					"id": 1,
+					"start": 2079,
+					"end": 2224,
+					"speed": 0.6,
+					"stepaccum": 0,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 2,
+					"start": 2228,
+					"end": 2275,
+					"speed": 0.6,
+					"stepaccum": 45,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 3,
+					"start": 2227,
+					"end": 2276,
+					"speed": 1,
+					"stepaccum": 30,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 4,
+					"start": 2279,
+					"end": 2280,
+					"speed": 0.1,
+					"stepaccum": 0,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 5,
+					"start": 2338,
+					"end": 2391,
+					"speed": 0.6,
+					"stepaccum": 45,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 6,
+					"start": 2421,
+					"end": 2431,
+					"speed": 0.1,
+					"stepaccum": 0,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 7,
+					"start": 2390,
+					"end": 2419,
+					"speed": 0.8,
+					"stepaccum": 35,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 10,
+					"start": 116,
+					"end": 288,
+					"speed": 0.5,
+					"stepaccum": 0,
+					"bones": "spine@chest@shoulder_L@upper_arm_L@forearm_L@hand_L@palm_04_L@f_pinky_01_L@f_pinky_02_L@f_pinky_03_L@palm_03_L@f_ring_01_L@f_ring_02_L@f_ring_03_L@palm_02_L@f_middle_01_L@f_middle_02_L@f_middle_03_L@palm_01_L@f_index_01_L@f_index_02_L@f_index_03_L@thumb_01_L@thumb_02_L@thumb_03_L@shoulder_R@upper_arm_R@forearm_R@hand_R@thumb_03_R@thumb_02_R@thumb_01_R@palm_01_R@f_index_01_R@f_index_02_R@f_index_03_R@palm_02_R@f_middle_01_R@f_middle_02_R@f_middle_03_R@palm_03_R@f_ring_01_R@f_ring_02_R@f_ring_03_R@palm_04_R@f_pinky_01_R@f_pinky_02_R@f_pinky_03_R",
+					"disablespine": false
+				},
+				{
+					"id": 15,
+					"start": 116,
+					"end": 288,
+					"speed": 0.5,
+					"stepaccum": 0,
+					"bones": "spine@chest@shoulder_L@upper_arm_L@forearm_L@hand_L@palm_04_L@f_pinky_01_L@f_pinky_02_L@f_pinky_03_L@palm_03_L@f_ring_01_L@f_ring_02_L@f_ring_03_L@palm_02_L@f_middle_01_L@f_middle_02_L@f_middle_03_L@palm_01_L@f_index_01_L@f_index_02_L@f_index_03_L@thumb_01_L@thumb_02_L@thumb_03_L@shoulder_R@upper_arm_R@forearm_R@hand_R@thumb_03_R@thumb_02_R@thumb_01_R@palm_01_R@f_index_01_R@f_index_02_R@f_index_03_R@palm_02_R@f_middle_01_R@f_middle_02_R@f_middle_03_R@palm_03_R@f_ring_01_R@f_ring_02_R@f_ring_03_R@palm_04_R@f_pinky_01_R@f_pinky_02_R@f_pinky_03_R",
+					"disablespine": false
+				},
+				{
+					"id": 25,
+					"start": 2433,
+					"end": 2517,
+					"speed": 0.6,
+					"stepaccum": 0,
+					"bones": "spine@chest@shoulder_L@upper_arm_L@forearm_L@hand_L@palm_04_L@f_pinky_01_L@f_pinky_02_L@f_pinky_03_L@palm_03_L@f_ring_01_L@f_ring_02_L@f_ring_03_L@palm_02_L@f_middle_01_L@f_middle_02_L@f_middle_03_L@palm_01_L@f_index_01_L@f_index_02_L@f_index_03_L@thumb_01_L@thumb_02_L@thumb_03_L@shoulder_R@upper_arm_R@forearm_R@hand_R@thumb_03_R@thumb_02_R@thumb_01_R@palm_01_R@f_index_01_R@f_index_02_R@f_index_03_R@palm_02_R@f_middle_01_R@f_middle_02_R@f_middle_03_R@palm_03_R@f_ring_01_R@f_ring_02_R@f_ring_03_R@palm_04_R@f_pinky_01_R@f_pinky_02_R@f_pinky_03_R",
+					"disablespine": false
+				},
+				{
+					"id": 26,
+					"start": 2433,
+					"end": 2517,
+					"speed": 0.6,
+					"stepaccum": 0,
+					"bones": "spine@chest@shoulder_L@upper_arm_L@forearm_L@hand_L@palm_04_L@f_pinky_01_L@f_pinky_02_L@f_pinky_03_L@palm_03_L@f_ring_01_L@f_ring_02_L@f_ring_03_L@palm_02_L@f_middle_01_L@f_middle_02_L@f_middle_03_L@palm_01_L@f_index_01_L@f_index_02_L@f_index_03_L@thumb_01_L@thumb_02_L@thumb_03_L@shoulder_R@upper_arm_R@forearm_R@hand_R@thumb_03_R@thumb_02_R@thumb_01_R@palm_01_R@f_index_01_R@f_index_02_R@f_index_03_R@palm_02_R@f_middle_01_R@f_middle_02_R@f_middle_03_R@palm_03_R@f_ring_01_R@f_ring_02_R@f_ring_03_R@palm_04_R@f_pinky_01_R@f_pinky_02_R@f_pinky_03_R",
+					"disablespine": false
+				},
+				{
+					"id": 27,
+					"start": 66,
+					"end": 105,
+					"speed": 0.8,
+					"stepaccum": 0,
+					"bones": "spine@chest@shoulder_L@upper_arm_L@forearm_L@hand_L@palm_04_L@f_pinky_01_L@f_pinky_02_L@f_pinky_03_L@palm_03_L@f_ring_01_L@f_ring_02_L@f_ring_03_L@palm_02_L@f_middle_01_L@f_middle_02_L@f_middle_03_L@palm_01_L@f_index_01_L@f_index_02_L@f_index_03_L@thumb_01_L@thumb_02_L@thumb_03_L@shoulder_R@upper_arm_R@forearm_R@hand_R@thumb_03_R@thumb_02_R@thumb_01_R@palm_01_R@f_index_01_R@f_index_02_R@f_index_03_R@palm_02_R@f_middle_01_R@f_middle_02_R@f_middle_03_R@palm_03_R@f_ring_01_R@f_ring_02_R@f_ring_03_R@palm_04_R@f_pinky_01_R@f_pinky_02_R@f_pinky_03_R",
+					"disablespine": false
+				},
+				{
+					"id": 28,
+					"start": 2521,
+					"end": 2530,
+					"speed": 0.6,
+					"stepaccum": 0,
+					"bones": "spine@chest@shoulder_R@upper_arm_R@forearm_R@hand_R@thumb_03_R@thumb_02_R@thumb_01_R@palm_01_R@f_index_01_R@f_index_02_R@f_index_03_R@palm_02_R@f_middle_01_R@f_middle_02_R@f_middle_03_R@palm_03_R@f_ring_01_R@f_ring_02_R@f_ring_03_R@palm_04_R@f_pinky_01_R@f_pinky_02_R@f_pinky_03_R",
+					"disablespine": false
+				},
+				{
+					"id": 29,
+					"start": 2520,
+					"end": 2520,
+					"speed": 0.8,
+					"stepaccum": 0,
+					"bones": "spine@chest@shoulder_L@upper_arm_L@forearm_L@hand_L@palm_04_L@f_pinky_01_L@f_pinky_02_L@f_pinky_03_L@palm_03_L@f_ring_01_L@f_ring_02_L@f_ring_03_L@palm_02_L@f_middle_01_L@f_middle_02_L@f_middle_03_L@palm_01_L@f_index_01_L@f_index_02_L@f_index_03_L@thumb_01_L@thumb_02_L@thumb_03_L@shoulder_R@upper_arm_R@forearm_R@hand_R@thumb_03_R@thumb_02_R@thumb_01_R@palm_01_R@f_index_01_R@f_index_02_R@f_index_03_R@palm_02_R@f_middle_01_R@f_middle_02_R@f_middle_03_R@palm_03_R@f_ring_01_R@f_ring_02_R@f_ring_03_R@palm_04_R@f_pinky_01_R@f_pinky_02_R@f_pinky_03_R",
+					"disablespine": false
+				}
+			],
+			"deadanimations": [
+				{
+					"id": 0,
+					"start": 10,
+					"end": 40,
+					"speed": 0.45
+				}
+			]
+		},
+		//============================================================================================================================= CI PLAYERMODEL CI PLAYERMODEL
+		//============================================================================================================================= CI PLAYERMODEL CI PLAYERMODEL
+		{
+			"id": 11,
+			"filename": "gfx/npcs/chaos_m.b3d",
+			"offsety": -0.3,
+			"offsetyaw": 0,
+			"headbone": "NeckHead",
+			"spinebone": "Spine2",
+			"handbone": "RArmHand",
+			"forearmbone": "",
+			"maximumspinepitch": 30,
+			"maximumspinepitchdist": 60,
+			"maximumheadpitch": 75,
+			"fixedspinerotation": 0,
+			"usedefaultrolls": true,
+			"collisionradius": 0.26,
+			"scale": 0.100492716,
+			"stepsound": "-",
+			"blobshadowsize": 0.26,
+			"stamina": 0.45,
+			"speed": 0,
+			"viewoffsety": 0,
+			"holdingitemoffsetx": 0,
+			"holdingitemoffsety": 0,
+			"holdingitemoffsetz": 0,
+			"holdingitemoffsetpitch": 0,
+			"holdingitemoffsetyaw": 0,
+			"holdingitemoffsetroll": 0,
+			"hitboxwidth": 1.3,
+			"hitboxheight": 5,
+			"hitboxdepth": 1.2,
+			"movesound": "",
+			"disableroll": false,
+			"disablebloodloss": false,
+			"disableinjuries": false,
+			"flippitch": false,
+			"disableinteractitems": false,
+			"rotationmode": 0,
+			"comparedspinerotation": false,
+			"disablejump": false,
+			"material": 0,
+			"collisiontype": 0,
+			"emitterbones": "",
+			"boneemitter": 0,
+			"copyattaches": 0,
+			"constantinvisibility": false,
+			"forearmholdingpitch": 0,
+			"forearmholdingyaw": 0,
+			"forearmholdingroll": 0,
+			"lightradius": 0,
+			"lightshadows": false,
+			"lightr": 0,
+			"lightg": 0,
+			"lightb": 0,
+			"lightscattering": 0,
+			"idlesounds": [],
+			"animations": [
+				{
+					"id": 1,
+					"start": 409,
+					"end": 507,
+					"speed": 0.8,
+					"stepaccum": 0,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 2,
+					"start": 380,
+					"end": 408,
+					"speed": 0.4,
+					"stepaccum": 45,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 3,
+					"start": 380,
+					"end": 408,
+					"speed": 0.8,
+					"stepaccum": 30,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 4,
+					"start": 508,
+					"end": 528,
+					"speed": 0.5,
+					"stepaccum": 0,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 5,
+					"start": 529,
+					"end": 549,
+					"speed": 0.25,
+					"stepaccum": 45,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 6,
+					"start": 665,
+					"end": 674,
+					"speed": 0.1,
+					"stepaccum": 0,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 7,
+					"start": 634,
+					"end": 664,
+					"speed": 0.6,
+					"stepaccum": 35,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 10,
+					"start": 3,
+					"end": 176,
+					"speed": 0.8,
+					"stepaccum": 0,
+					"bones": "Spine1@Spine2@Spine3@LArmCollarbone@LArmUpper1@LArmUpper2@LArmForearm1@LArmForearm2@LArmHand@LArmThumb1@LArmThumb2@LArmThumb3@LArmIndex1@LArmIndex2@LArmIndex3@LArmMid1@LArmMid2@LArmMid3@LArmRing1@LArmRing2@LArmRing3@LArmPinky1@LArmPinky2@LArmPinky3@RArmCollarbone@RArmUpper1@RArmUpper2@RArmForearm1@RArmForearm2@RArmHand@RArmThumb1@RArmThumb2@RArmThumb3@M4MB@RArmPinky1@RArmPinky2@RArmPinky3@RArmRing1@RArmRing2@RArmRing3@RArmMid1@RArmMid2@RArmMid3@RArmIndex1@RArmIndex2@RArmIndex3@RArmThumb1@RArmThumb2@RArmThumb3",
+					"disablespine": false
+				},
+				{
+					"id": 15,
+					"start": 3,
+					"end": 176,
+					"speed": 0.8,
+					"stepaccum": 0,
+					"bones": "Spine1@Spine2@Spine3@LArmCollarbone@LArmUpper1@LArmUpper2@LArmForearm1@LArmForearm2@LArmHand@LArmThumb1@LArmThumb2@LArmThumb3@LArmIndex1@LArmIndex2@LArmIndex3@LArmMid1@LArmMid2@LArmMid3@LArmRing1@LArmRing2@LArmRing3@LArmPinky1@LArmPinky2@LArmPinky3@RArmCollarbone@RArmUpper1@RArmUpper2@RArmForearm1@RArmForearm2@RArmHand@RArmThumb1@RArmThumb2@RArmThumb3@M4MB@RArmPinky1@RArmPinky2@RArmPinky3@RArmRing1@RArmRing2@RArmRing3@RArmMid1@RArmMid2@RArmMid3@RArmIndex1@RArmIndex2@RArmIndex3@RArmThumb1@RArmThumb2@RArmThumb3",
+					"disablespine": false
+				},
+				{
+					"id": 25,
+					"start": 677,
+					"end": 761,
+					"speed": 0.5,
+					"stepaccum": 0,
+					"bones": "Spine1@Spine2@Spine3@LArmCollarbone@LArmUpper1@LArmUpper2@LArmForearm1@LArmForearm2@LArmHand@LArmThumb1@LArmThumb2@LArmThumb3@LArmIndex1@LArmIndex2@LArmIndex3@LArmMid1@LArmMid2@LArmMid3@LArmRing1@LArmRing2@LArmRing3@LArmPinky1@LArmPinky2@LArmPinky3@RArmCollarbone@RArmUpper1@RArmUpper2@RArmForearm1@RArmForearm2@RArmHand@RArmThumb1@RArmThumb2@RArmThumb3@M4MB@RArmPinky1@RArmPinky2@RArmPinky3@RArmRing1@RArmRing2@RArmRing3@RArmMid1@RArmMid2@RArmMid3@RArmIndex1@RArmIndex2@RArmIndex3@RArmThumb1@RArmThumb2@RArmThumb3",
+					"disablespine": false
+				},
+				{
+					"id": 26,
+					"start": 677,
+					"end": 761,
+					"speed": 0.5,
+					"stepaccum": 0,
+					"bones": "Spine1@Spine2@Spine3@LArmCollarbone@LArmUpper1@LArmUpper2@LArmForearm1@LArmForearm2@LArmHand@LArmThumb1@LArmThumb2@LArmThumb3@LArmIndex1@LArmIndex2@LArmIndex3@LArmMid1@LArmMid2@LArmMid3@LArmRing1@LArmRing2@LArmRing3@LArmPinky1@LArmPinky2@LArmPinky3@RArmCollarbone@RArmUpper1@RArmUpper2@RArmForearm1@RArmForearm2@RArmHand@RArmThumb1@RArmThumb2@RArmThumb3@M4MB@RArmPinky1@RArmPinky2@RArmPinky3@RArmRing1@RArmRing2@RArmRing3@RArmMid1@RArmMid2@RArmMid3@RArmIndex1@RArmIndex2@RArmIndex3@RArmThumb1@RArmThumb2@RArmThumb3",
+					"disablespine": false
+				},
+				{
+					"id": 27,
+					"start": 763,
+					"end": 775,
+					"speed": 0.7,
+					"stepaccum": 0,
+					"bones": "LArmCollarbone@LArmUpper1@LArmUpper2@LArmForearm1@LArmForearm2@LArmHand@LArmThumb1@LArmThumb2@LArmThumb3@LArmIndex1@LArmIndex2@LArmIndex3@LArmMid1@LArmMid2@LArmMid3@LArmRing1@LArmRing2@LArmRing3@LArmPinky1@LArmPinky2@LArmPinky3@RArmCollarbone@RArmUpper1@RArmUpper2@RArmForearm1@RArmForearm2@RArmHand@RArmThumb1@RArmThumb2@RArmThumb3@M4MB@RArmPinky1@RArmPinky2@RArmPinky3@RArmRing1@RArmRing2@RArmRing3@RArmMid1@RArmMid2@RArmMid3@RArmIndex1@RArmIndex2@RArmIndex3@RArmThumb1@RArmThumb2@RArmThumb3",
+					"disablespine": false
+				},
+				{
+					"id": 28,
+					"start": 778,
+					"end": 784,
+					"speed": 0.7,
+					"stepaccum": 0,
+					"bones": "Spine1@Spine2@Spine3@LArmCollarbon@RArmCollarbone@RArmUpper1@RArmUpper2@RArmForearm1@RArmForearm2@RArmHand@RArmThumb1@RArmThumb2@RArmThumb3@M4MB@RArmPinky1@RArmPinky2@RArmPinky3@RArmRing1@RArmRing2@RArmRing3@RArmMid1@RArmMid2@RArmMid3@RArmIndex1@RArmIndex2@RArmIndex3@RArmThumb1@RArmThumb2@RArmThumb3",
+					"disablespine": false
+				},
+				{
+					"id": 29,
+					"start": 777,
+					"end": 777,
+					"speed": 0.8,
+					"stepaccum": 0,
+					"bones": "Spine1@Spine2@Spine3@LArmCollarbone@LArmUpper1@LArmUpper2@LArmForearm1@LArmForearm2@LArmHand@LArmThumb1@LArmThumb2@LArmThumb3@LArmIndex1@LArmIndex2@LArmIndex3@LArmMid1@LArmMid2@LArmMid3@LArmRing1@LArmRing2@LArmRing3@LArmPinky1@LArmPinky2@LArmPinky3@RArmCollarbone@RArmUpper1@RArmUpper2@RArmForearm1@RArmForearm2@RArmHand@RArmThumb1@RArmThumb2@RArmThumb3@M4MB@RArmPinky1@RArmPinky2@RArmPinky3@RArmRing1@RArmRing2@RArmRing3@RArmMid1@RArmMid2@RArmMid3@RArmIndex1@RArmIndex2@RArmIndex3@RArmThumb1@RArmThumb2@RArmThumb3",
+					"disablespine": false
+				}
+			],
+			"deadanimations": [
+				{
+					"id": 0,
+					"start": 587,
+					"end": 633,
+					"speed": 0.5
+				}
+			]
+		},
+		//============================================================================================================================= GOC PLAYERMODEL GOC PLAYERMODEL
+		//============================================================================================================================= GOC PLAYERMODEL GOC PLAYERMODEL
+		{
+			"id": 16,
+			"filename": "gfx/npcs/goc.b3d",
+			"offsety": -0.3,
+			"offsetyaw": 0,
+			"headbone": "Bip01_Head1",
+			"spinebone": "Bip01_Spine",
+			"handbone": "Anim_Attachment_RH",
+			"forearmbone": "",
+			"maximumspinepitch": 30,
+			"maximumspinepitchdist": 60,
+			"maximumheadpitch": 75,
+			"fixedspinerotation": 0,
+			"usedefaultrolls": true,
+			"collisionradius": 0.26,
+			"scale": 0.0132,
+			"stepsound": "-",
+			"blobshadowsize": 0.26,
+			"stamina": 0.3,
+			"speed": 0,
+			"viewoffsety": 0,
+			"holdingitemoffsetx": 0,
+			"holdingitemoffsety": 0,
+			"holdingitemoffsetz": 0,
+			"holdingitemoffsetpitch": 0,
+			"holdingitemoffsetyaw": 0,
+			"holdingitemoffsetroll": 0,
+			"hitboxwidth": 11,
+			"hitboxheight": 38,
+			"hitboxdepth": 11,
+			"movesound": "",
+			"disableroll": false,
+			"disablebloodloss": false,
+			"disableinjuries": false,
+			"flippitch": true,
+			"disableinteractitems": false,
+			"rotationmode": 2,
+			"comparedspinerotation": false,
+			"disablejump": false,
+			"material": 0,
+			"collisiontype": 0,
+			"emitterbones": "",
+			"boneemitter": 0,
+			"copyattaches": 0,
+			"constantinvisibility": false,
+			"forearmholdingpitch": 0,
+			"forearmholdingyaw": 0,
+			"forearmholdingroll": 0,
+			"lightradius": 0,
+			"lightshadows": false,
+			"lightr": 0,
+			"lightg": 0,
+			"lightb": 0,
+			"lightscattering": 0,
+			"idlesounds": [],
+			"animations": [
+				{
+					"id": 1,
+					"start": 1,
+					"end": 60,
+					"speed": 0.12,
+					"stepaccum": 0,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 2,
+					"start": 61,
+					"end": 89,
+					"speed": 0.45,
+					"stepaccum": 45,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 3,
+					"start": 61,
+					"end": 89,
+					"speed": 0.7,
+					"stepaccum": 30,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 4,
+					"start": 90,
+					"end": 150,
+					"speed": 0.5,
+					"stepaccum": 0,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 5,
+					"start": 151,
+					"end": 175,
+					"speed": 0.28,
+					"stepaccum": 45,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 6,
+					"start": 61,
+					"end": 89,
+					"speed": 0.8,
+					"stepaccum": 0,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 7,
+					"start": 61,
+					"end": 89,
+					"speed": 0.8,
+					"stepaccum": 35,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 10,
+					"start": 176,
+					"end": 236,
+					"speed": 0.12,
+					"stepaccum": 0,
+					"bones": "Bip01_Spine1@Bip01_Spine2@Bip01_Spine4@Bip01_L_Clavicle@Bip01_L_UpperArm@Bip01_L_Forearm@ValveBiped.Bip01_L_Ulna@Bip01_L_Hand@ValveBiped.Bip01_L_Finger0@ValveBiped.Bip01_L_Finger01@ValveBiped.Bip01_L_Finger02@ValveBiped.Anim_Attachment_LH@ValveBiped.Bip01_L_Finger1@ValveBiped.Bip01_L_Finger11@ValveBiped.Bip01_L_Finger12@ValveBiped.Bip01_L_Finger2@ValveBiped.Bip01_L_Finger21@ValveBiped.Bip01_L_Finger22@Bip01_R_Clavicle@Bip01_R_UpperArm@Bip01_R_Forearm@Bip01_R_Ulna@Bip01_R_Hand@Bip01_R_Finger0@Bip01_R_Finger01@Bip01_R_Finger02@Anim_Attachment_RH@Bip01_R_Finger1@Bip01_R_Finger11@Bip01_R_Finger12@Bip01_R_Finger2@Bip01_R_Finger21@Bip01_R_Finger22",
+					"disablespine": false
+				},
+				{
+					"id": 15,
+					"start": 176,
+					"end": 236,
+					"speed": 0.12,
+					"stepaccum": 0,
+					"bones": "Bip01_Spine1@Bip01_Spine2@Bip01_Spine4@Bip01_L_Clavicle@Bip01_L_UpperArm@Bip01_L_Forearm@ValveBiped.Bip01_L_Ulna@Bip01_L_Hand@ValveBiped.Bip01_L_Finger0@ValveBiped.Bip01_L_Finger01@ValveBiped.Bip01_L_Finger02@ValveBiped.Anim_Attachment_LH@ValveBiped.Bip01_L_Finger1@ValveBiped.Bip01_L_Finger11@ValveBiped.Bip01_L_Finger12@ValveBiped.Bip01_L_Finger2@ValveBiped.Bip01_L_Finger21@ValveBiped.Bip01_L_Finger22@Bip01_R_Clavicle@Bip01_R_UpperArm@Bip01_R_Forearm@Bip01_R_Ulna@Bip01_R_Hand@Bip01_R_Finger0@Bip01_R_Finger01@Bip01_R_Finger02@Anim_Attachment_RH@Bip01_R_Finger1@Bip01_R_Finger11@Bip01_R_Finger12@Bip01_R_Finger2@Bip01_R_Finger21@Bip01_R_Finger22",
+					"disablespine": false
+				},
+				{
+					"id": 25,
+					"start": 481,
+					"end": 514,
+					"speed": 0.5,
+					"stepaccum": 0,
+					"bones": "Bip01_Spine1@Bip01_Spine2@Bip01_Spine4@Bip01_L_Clavicle@Bip01_L_UpperArm@Bip01_L_Forearm@ValveBiped.Bip01_L_Ulna@Bip01_L_Hand@ValveBiped.Bip01_L_Finger0@ValveBiped.Bip01_L_Finger01@ValveBiped.Bip01_L_Finger02@ValveBiped.Anim_Attachment_LH@ValveBiped.Bip01_L_Finger1@ValveBiped.Bip01_L_Finger11@ValveBiped.Bip01_L_Finger12@ValveBiped.Bip01_L_Finger2@ValveBiped.Bip01_L_Finger21@ValveBiped.Bip01_L_Finger22@Bip01_R_Clavicle@Bip01_R_UpperArm@Bip01_R_Forearm@Bip01_R_Ulna@Bip01_R_Hand@Bip01_R_Finger0@Bip01_R_Finger01@Bip01_R_Finger02@Anim_Attachment_RH@Bip01_R_Finger1@Bip01_R_Finger11@Bip01_R_Finger12@Bip01_R_Finger2@Bip01_R_Finger21@Bip01_R_Finger22",
+					"disablespine": false
+				},
+				{
+					"id": 26,
+					"start": 481,
+					"end": 514,
+					"speed": 0.5,
+					"stepaccum": 0,
+					"bones": "Bip01_Spine1@Bip01_Spine2@Bip01_Spine4@Bip01_L_Clavicle@Bip01_L_UpperArm@Bip01_L_Forearm@ValveBiped.Bip01_L_Ulna@Bip01_L_Hand@ValveBiped.Bip01_L_Finger0@ValveBiped.Bip01_L_Finger01@ValveBiped.Bip01_L_Finger02@ValveBiped.Anim_Attachment_LH@ValveBiped.Bip01_L_Finger1@ValveBiped.Bip01_L_Finger11@ValveBiped.Bip01_L_Finger12@ValveBiped.Bip01_L_Finger2@ValveBiped.Bip01_L_Finger21@ValveBiped.Bip01_L_Finger22@Bip01_R_Clavicle@Bip01_R_UpperArm@Bip01_R_Forearm@Bip01_R_Ulna@Bip01_R_Hand@Bip01_R_Finger0@Bip01_R_Finger01@Bip01_R_Finger02@Anim_Attachment_RH@Bip01_R_Finger1@Bip01_R_Finger11@Bip01_R_Finger12@Bip01_R_Finger2@Bip01_R_Finger21@Bip01_R_Finger22",
+					"disablespine": false
+				},
+				{
+					"id": 27,
+					"start": 441,
+					"end": 480,
+					"speed": 0.8,
+					"stepaccum": 0,
+					"bones": "Bip01_Spine1@Bip01_Spine2@Bip01_Spine4@Bip01_L_Clavicle@Bip01_L_UpperArm@Bip01_L_Forearm@ValveBiped.Bip01_L_Ulna@Bip01_L_Hand@ValveBiped.Bip01_L_Finger0@ValveBiped.Bip01_L_Finger01@ValveBiped.Bip01_L_Finger02@ValveBiped.Anim_Attachment_LH@ValveBiped.Bip01_L_Finger1@ValveBiped.Bip01_L_Finger11@ValveBiped.Bip01_L_Finger12@ValveBiped.Bip01_L_Finger2@ValveBiped.Bip01_L_Finger21@ValveBiped.Bip01_L_Finger22@Bip01_R_Clavicle@Bip01_R_UpperArm@Bip01_R_Forearm@Bip01_R_Ulna@Bip01_R_Hand@Bip01_R_Finger0@Bip01_R_Finger01@Bip01_R_Finger02@Anim_Attachment_RH@Bip01_R_Finger1@Bip01_R_Finger11@Bip01_R_Finger12@Bip01_R_Finger2@Bip01_R_Finger21@Bip01_R_Finger22",
+					"disablespine": false
+				},
+				{
+					"id": 28,
+					"start": 426,
+					"end": 438,
+					"speed": 0.5,
+					"stepaccum": 0,
+					"bones": "Bip01_Spine1@Bip01_Spine2@Bip01_Spine4@Bip01_L_Clavicle@Bip01_R_Clavicle@Bip01_R_UpperArm@Bip01_R_Forearm@Bip01_R_Ulna@Bip01_R_Hand@Bip01_R_Finger0@Bip01_R_Finger01@Bip01_R_Finger02@Anim_Attachment_RH@Bip01_R_Finger1@Bip01_R_Finger11@Bip01_R_Finger12@Bip01_R_Finger2@Bip01_R_Finger21@Bip01_R_Finger22",
+					"disablespine": false
+				},
+				{
+					"id": 29,
+					"start": 440,
+					"end": 440,
+					"speed": 0.5,
+					"stepaccum": 0,
+					"bones": "Bip01_Spine1@Bip01_Spine2@Bip01_Spine4@Bip01_L_Clavicle@Bip01_L_UpperArm@Bip01_L_Forearm@ValveBiped.Bip01_L_Ulna@Bip01_L_Hand@ValveBiped.Bip01_L_Finger0@ValveBiped.Bip01_L_Finger01@ValveBiped.Bip01_L_Finger02@ValveBiped.Anim_Attachment_LH@ValveBiped.Bip01_L_Finger1@ValveBiped.Bip01_L_Finger11@ValveBiped.Bip01_L_Finger12@ValveBiped.Bip01_L_Finger2@ValveBiped.Bip01_L_Finger21@ValveBiped.Bip01_L_Finger22@Bip01_R_Clavicle@Bip01_R_UpperArm@Bip01_R_Forearm@Bip01_R_Ulna@Bip01_R_Hand@Bip01_R_Finger0@Bip01_R_Finger01@Bip01_R_Finger02@Anim_Attachment_RH@Bip01_R_Finger1@Bip01_R_Finger11@Bip01_R_Finger12@Bip01_R_Finger2@Bip01_R_Finger21@Bip01_R_Finger22",
+					"disablespine": false
+				}
+			],
+			"deadanimations": [
+				{
+					"id": 0,
+					"start": 376,
+					"end": 396,
+					"speed": 0.5
+				}
+			]
+		},
+		//============================================================================================================================= ALPHA-1 PLAYERMODEL ALPHA-1 PLAYERMODEL
+		//============================================================================================================================= ALPHA-1 PLAYERMODEL ALPHA-1 PLAYERMODEL
+		{
+			"id": 18,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/ALPHA1_m.b3d",
+			"offsety": -0.3,
+			"offsetyaw": 90.0,
+			"headbone": "head",
+			"spinebone": "spine",
+			"handbone": "hand_r",
+			"forearmbone": "",
+			"maximumspinepitch": 30.0,
+			"maximumspinepitchdist": 60.0,
+			"maximumheadpitch": 75.0,
+			"fixedspinerotation": 40.0,
+			"usedefaultrolls": true,
+			"collisionradius": 0.26,
+			"scale": 0.11111111,
+			"stepsound": "-",
+			"blobshadowsize": 0.26,
+			"stamina": 0.25,
+			"speed": 0.0,
+			"viewoffsety": 0.0,
+			"holdingitemoffsetx": 0.0,
+			"holdingitemoffsety": 0.0,
+			"holdingitemoffsetz": 0.0,
+			"holdingitemoffsetpitch": 0.0,
+			"holdingitemoffsetyaw": 0.0,
+			"holdingitemoffsetroll": 0.0,
+			"hitboxwidth": 1.2,
+			"hitboxheight": 4.5,
+			"hitboxdepth": 1.2,
+			"movesound": "",
+			"disableroll": false,
+			"disablebloodloss": false,
+			"disableinjuries": false,
+			"flippitch": false,
+			"disableinteractitems": false,
+			"rotationmode": 1,
+			"comparedspinerotation": true,
+			"disablejump": false,
+			"material": 0,
+			"collisiontype": 0,
+			"emitterbones": "",
+			"boneemitter": 0,
+			"idlesounds": [],
+			"animations": [
+				{
+					"id": 1,
+					"start": 2079,
+					"end": 2224,
+					"speed": 0.6,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 2,
+					"start": 2228,
+					"end": 2275,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				},
+				{
+					"id": 3,
+					"start": 2227,
+					"end": 2276,
+					"speed": 1.0,
+					"stepaccum": 30.0
+				},
+				{
+					"id": 4,
+					"start": 2279,
+					"end": 2280,
+					"speed": 0.1,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 5,
+					"start": 2338,
+					"end": 2391,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				},
+				{
+					"id": 6,
+					"start": 2421,
+					"end": 2431,
+					"speed": 0.1,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 7,
+					"start": 2390,
+					"end": 2419,
+					"speed": 0.8,
+					"stepaccum": 35.0
+				},
+				{
+					"id": 10,
+					"start": 116,
+					"end": 288,
+					"speed": 0.5,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 11,
+					"start": 464,
+					"end": 517,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				},
+				{
+					"id": 12,
+					"start": 464,
+					"end": 517,
+					"speed": 1.0,
+					"stepaccum": 30.0
+				},
+				{
+					"id": 13,
+					"start": 2282,
+					"end": 2283,
+					"speed": 0.1,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 14,
+					"start": 2285,
+					"end": 2337,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				},
+				{
+					"id": 15,
+					"start": 116,
+					"end": 288,
+					"speed": 0.5,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 16,
+					"start": 464,
+					"end": 517,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				},
+				{
+					"id": 17,
+					"start": 464,
+					"end": 517,
+					"speed": 1.0,
+					"stepaccum": 30.0
+				},
+				{
+					"id": 18,
+					"start": 2282,
+					"end": 2283,
+					"speed": 0.1,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 19,
+					"start": 2285,
+					"end": 2337,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				}
+			],
+			"deadanimations": [
+				{
+					"id": 0,
+					"start": 10,
+					"end": 40,
+					"speed": 0.45
+				}
+			]
+		},
+		//============================================================================================================================= NU-7 PLAYERMODEL NU-7 PLAYERMODEL
+		//============================================================================================================================= NU-7 PLAYERMODEL NU-7 PLAYERMODEL
+		{
+			"id": 19,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/NU7_m.b3d",
+			"offsety": -0.3,
+			"offsetyaw": 90.0,
+			"headbone": "head",
+			"spinebone": "spine",
+			"handbone": "hand_r",
+			"forearmbone": "",
+			"maximumspinepitch": 30.0,
+			"maximumspinepitchdist": 60.0,
+			"maximumheadpitch": 75.0,
+			"fixedspinerotation": 40.0,
+			"usedefaultrolls": true,
+			"collisionradius": 0.26,
+			"scale": 0.11111111,
+			"stepsound": "-",
+			"blobshadowsize": 0.26,
+			"stamina": 0.3,
+			"speed": 0.0,
+			"viewoffsety": 0.0,
+			"holdingitemoffsetx": 0.0,
+			"holdingitemoffsety": 0.0,
+			"holdingitemoffsetz": 0.0,
+			"holdingitemoffsetpitch": 0.0,
+			"holdingitemoffsetyaw": 0.0,
+			"holdingitemoffsetroll": 0.0,
+			"hitboxwidth": 1.2,
+			"hitboxheight": 4.5,
+			"hitboxdepth": 1.2,
+			"movesound": "",
+			"disableroll": false,
+			"disablebloodloss": false,
+			"disableinjuries": false,
+			"flippitch": false,
+			"disableinteractitems": false,
+			"rotationmode": 1,
+			"comparedspinerotation": true,
+			"disablejump": false,
+			"material": 0,
+			"collisiontype": 0,
+			"emitterbones": "",
+			"boneemitter": 0,
+			"idlesounds": [],
+			"animations": [
+				{
+					"id": 1,
+					"start": 2079,
+					"end": 2224,
+					"speed": 0.6,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 2,
+					"start": 2228,
+					"end": 2275,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				},
+				{
+					"id": 3,
+					"start": 2227,
+					"end": 2276,
+					"speed": 1.0,
+					"stepaccum": 30.0
+				},
+				{
+					"id": 4,
+					"start": 2279,
+					"end": 2280,
+					"speed": 0.1,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 5,
+					"start": 2338,
+					"end": 2391,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				},
+				{
+					"id": 6,
+					"start": 2421,
+					"end": 2431,
+					"speed": 0.1,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 7,
+					"start": 2390,
+					"end": 2419,
+					"speed": 0.8,
+					"stepaccum": 35.0
+				},
+				{
+					"id": 10,
+					"start": 116,
+					"end": 288,
+					"speed": 0.5,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 11,
+					"start": 464,
+					"end": 517,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				},
+				{
+					"id": 12,
+					"start": 464,
+					"end": 517,
+					"speed": 1.0,
+					"stepaccum": 30.0
+				},
+				{
+					"id": 13,
+					"start": 2282,
+					"end": 2283,
+					"speed": 0.1,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 14,
+					"start": 2285,
+					"end": 2337,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				},
+				{
+					"id": 15,
+					"start": 116,
+					"end": 288,
+					"speed": 0.5,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 16,
+					"start": 464,
+					"end": 517,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				},
+				{
+					"id": 17,
+					"start": 464,
+					"end": 517,
+					"speed": 1.0,
+					"stepaccum": 30.0
+				},
+				{
+					"id": 18,
+					"start": 2282,
+					"end": 2283,
+					"speed": 0.1,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 19,
+					"start": 2285,
+					"end": 2337,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				}
+			],
+			"deadanimations": [
+				{
+					"id": 0,
+					"start": 10,
+					"end": 40,
+					"speed": 0.45
+				}
+			]
+		},
+		//============================================================================================================================= ETA-10 PLAYERMODEL ETA-10 PLAYERMODEL
+		//============================================================================================================================= ETA-10 PLAYERMODEL ETA-10 PLAYERMODEL
+		{
+			"id": 20,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/ETA10_m.b3d",
+			"offsety": -0.3,
+			"offsetyaw": 90.0,
+			"headbone": "head",
+			"spinebone": "spine",
+			"handbone": "hand_r",
+			"forearmbone": "",
+			"maximumspinepitch": 30.0,
+			"maximumspinepitchdist": 60.0,
+			"maximumheadpitch": 75.0,
+			"fixedspinerotation": 40.0,
+			"usedefaultrolls": true,
+			"collisionradius": 0.26,
+			"scale": 0.11111111,
+			"stepsound": "-",
+			"blobshadowsize": 0.26,
+			"stamina": 0.45,
+			"speed": 0.0,
+			"viewoffsety": 0.0,
+			"holdingitemoffsetx": 0.0,
+			"holdingitemoffsety": 0.0,
+			"holdingitemoffsetz": 0.0,
+			"holdingitemoffsetpitch": 0.0,
+			"holdingitemoffsetyaw": 0.0,
+			"holdingitemoffsetroll": 0.0,
+			"hitboxwidth": 1.2,
+			"hitboxheight": 4.5,
+			"hitboxdepth": 1.2,
+			"movesound": "",
+			"disableroll": false,
+			"disablebloodloss": false,
+			"disableinjuries": false,
+			"flippitch": false,
+			"disableinteractitems": false,
+			"rotationmode": 1,
+			"comparedspinerotation": true,
+			"disablejump": false,
+			"material": 0,
+			"collisiontype": 0,
+			"emitterbones": "",
+			"boneemitter": 0,
+			"idlesounds": [],
+			"animations": [
+				{
+					"id": 1,
+					"start": 2079,
+					"end": 2224,
+					"speed": 0.6,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 2,
+					"start": 2228,
+					"end": 2275,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				},
+				{
+					"id": 3,
+					"start": 2227,
+					"end": 2276,
+					"speed": 1.0,
+					"stepaccum": 30.0
+				},
+				{
+					"id": 4,
+					"start": 2279,
+					"end": 2280,
+					"speed": 0.1,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 5,
+					"start": 2338,
+					"end": 2391,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				},
+				{
+					"id": 6,
+					"start": 2421,
+					"end": 2431,
+					"speed": 0.1,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 7,
+					"start": 2390,
+					"end": 2419,
+					"speed": 0.8,
+					"stepaccum": 35.0
+				},
+				{
+					"id": 10,
+					"start": 116,
+					"end": 288,
+					"speed": 0.5,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 11,
+					"start": 464,
+					"end": 517,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				},
+				{
+					"id": 12,
+					"start": 464,
+					"end": 517,
+					"speed": 1.0,
+					"stepaccum": 30.0
+				},
+				{
+					"id": 13,
+					"start": 2282,
+					"end": 2283,
+					"speed": 0.1,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 14,
+					"start": 2285,
+					"end": 2337,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				},
+				{
+					"id": 15,
+					"start": 116,
+					"end": 288,
+					"speed": 0.5,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 16,
+					"start": 464,
+					"end": 517,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				},
+				{
+					"id": 17,
+					"start": 464,
+					"end": 517,
+					"speed": 1.0,
+					"stepaccum": 30.0
+				},
+				{
+					"id": 18,
+					"start": 2282,
+					"end": 2283,
+					"speed": 0.1,
+					"stepaccum": 0.0
+				},
+				{
+					"id": 19,
+					"start": 2285,
+					"end": 2337,
+					"speed": 0.6,
+					"stepaccum": 45.0
+				}
+			],
+			"deadanimations": [
+				{
+					"id": 0,
+					"start": 10,
+					"end": 40,
+					"speed": 0.45
+				}
+			]
+		},
+		//============================================================================================================================= SCP-049 PLAYERMODEL SCP-049 PLAYERMODEL
+		//============================================================================================================================= SCP-049 PLAYERMODEL SCP-049 PLAYERMODEL
+		{
+			"id": 5,
+			"filename": "gfx/npcs/scp_049.b3d",
+			"offsety": -0.3,
+			"offsetyaw": 0,
+			"headbone": "Bone_019",
+			"spinebone": "Bone_001",
+			"handbone": "",
+			"forearmbone": "",
+			"maximumspinepitch": 30,
+			"maximumspinepitchdist": 60,
+			"maximumheadpitch": 75,
+			"fixedspinerotation": 0,
+			"usedefaultrolls": true,
+			"collisionradius": 0.25,
+			"scale": 1.2,
+			"stepsound": "SFX/Step/NPCs/049/StepMetal0.ogg",
+			"blobshadowsize": 0.25,
+			"stamina": 2,
+			"speed": 0,
+			"viewoffsety": 0,
+			"holdingitemoffsetx": 0,
+			"holdingitemoffsety": 0,
+			"holdingitemoffsetz": 0,
+			"holdingitemoffsetpitch": 0,
+			"holdingitemoffsetyaw": 0,
+			"holdingitemoffsetroll": 0,
+			"hitboxwidth": 0.1,
+			"hitboxheight": 0.43,
+			"hitboxdepth": 0.1,
+			"movesound": "",
+			"disableroll": false,
+			"disablebloodloss": true,
+			"disableinjuries": true,
+			"flippitch": true,
+			"disableinteractitems": true,
+			"rotationmode": 0,
+			"comparedspinerotation": false,
+			"disablejump": false,
+			"material": 0,
+			"collisiontype": 0,
+			"emitterbones": "",
+			"boneemitter": 0,
+			"copyattaches": 0,
+			"constantinvisibility": false,
+			"forearmholdingpitch": 0,
+			"forearmholdingyaw": 0,
+			"forearmholdingroll": 0,
+			"lightradius": 0,
+			"lightshadows": false,
+			"lightr": 0,
+			"lightg": 0,
+			"lightb": 0,
+			"lightscattering": 0,
+			"idlesounds": [],
+			"animations": [
+				{
+					"id": 1,
+					"start": 269,
+					"end": 345,
+					"speed": 0.2,
+					"stepaccum": 0,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 2,
+					"start": 402,
+					"end": 437,
+					"speed": 0.6,
+					"stepaccum": 40,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 3,
+					"start": 402,
+					"end": 437,
+					"speed": 1,
+					"stepaccum": 30,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 15,
+					"start": 537,
+					"end": 660,
+					"speed": 0.7,
+					"stepaccum": 0,
+					"bones": "",
+					"disablespine": false
+				},
+				{
+					"id": 17,
+					"start": 537,
+					"end": 660,
+					"speed": 0.7,
+					"stepaccum": 0,
+					"bones": "",
+					"disablespine": false
+				}
+			],
+			"deadanimations": [
+				{
+					"id": 0,
+					"start": 1226,
+					"end": 1273,
+					"speed": 0.3
+				}
+			]
+		}
+	],
+	"weapons": [
+		//============================================================================================================================= P90 VIEWMODEL P90 VIEWMODEL
+		//============================================================================================================================= P90 VIEWMODEL P90 VIEWMODEL
+		{
+			"id": 10,
+			"filename": "gfx/items/weapons/p90/p90.b3d",
+			"weapontype": 1,
+			"attachid": 30,
+			"offsetx": 0,
+			"offsety": -0,
+			"offsetz": -0.01,
+			"offsetpitch": 0,
+			"offsetyaw": 0,
+			"offsetroll": 0,
+			"scale": 0.005,
+			"muzzleflashscale": 0.02,
+			"muzzleflashyaw": 6,
+			"recoil": 2.75,
+			"spread": 3.5,
+			"shootrate": 0.071428575,
+			"recoilseed": 543,
+			"damage": 1.6,
+			"maxammo": 50,
+			"maxclipammo": 200,
+			"reloadtime": 3,
+			"shootrange": 30,
+			"shootsound": "SFX/Character/Gunshot0.ogg",
+			"reloadsound": "SFX/Weapons/P90/reload.ogg",
+			"deploysound": "SFX/Weapons/P90/deploy.ogg",
+			"shootstartsound": "",
+			"misssound": "",
+			"hitsounds": [],
+			"sightoffsetx": -0.017,
+			"sightoffsety": -0.0017,
+			"sightmultiplier": 1.3,
+			"isviewmodel": false,
+			"applyitemtexture": false,
+			"isselectable": false,
+			"notexture": false,
+			"handsurface": 0,
+			"pump": false,
+			"pellets": 0,
+			"combat": false,
+			"shootafteranim": false,
+			"playeranimation": 0,
+			"animations": [
+				{
+					"id": 1,
+					"start": 45,
+					"end": 50,
+					"speed": 0.6
+				},
+				{
+					"id": 2,
+					"start": 1,
+					"end": 44,
+					"speed": 0.7
+				},
+				{
+					"id": 3,
+					"start": 181,
+					"end": 200,
+					"speed": 0.5
+				},
+				{
+					"id": 4,
+					"start": 201,
+					"end": 201,
+					"speed": 1
+				},
+				{
+					"id": 5,
+					"start": 56,
+					"end": 180,
+					"speed": 0.7
+				},
+				{
+					"id": 6,
+					"start": 201,
+					"end": 201,
+					"speed": 1
+				},
+				{
+					"id": 7,
+					"start": 1,
+					"end": 44,
+					"speed": -0.9
+				}
+			],
+			"itemid": 118,
+			"itemname": "P90",
+			"itemworldmodel": "GFX/Items/p90_wm.b3d",
+			"itemicon": "GFX/Items/Inventory Icons/INV_p90.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		},
+		//============================================================================================================================= AK-74 VIEWMODEL AK-74 VIEWMODEL
+		//============================================================================================================================= AK-74 VIEWMODEL AK-74 VIEWMODEL
+		{
+			"id": 21,
+			"filename": "gfx/items/weapons/ak74/ak74.fbx",
+			"weapontype": 1,
+			"attachid": 41,
+			"offsetx": -0.008,
+			"offsety": -0.006,
+			"offsetz": -0.085,
+			"offsetpitch": 0,
+			"offsetyaw": -1.65,
+			"offsetroll": 0,
+			"scale": 0.0025,
+			"muzzleflashscale": 0.028,
+			"muzzleflashyaw": 8,
+			"recoil": 2.5,
+			"spread": 3.5,
+			"shootrate": 0.085,
+			"recoilseed": 420,
+			"damage": 1.7400002,
+			"maxammo": 30,
+			"maxclipammo": 120,
+			"reloadtime": 3,
+			"shootrange": 30,
+			"shootsound": "addons/MEDIUMRP/SFX/Weapons/Shoot/AK-74_Shoot.ogg",
+			"reloadsound": "SFX/Weapons/AK74/reload.ogg",
+			"deploysound": "SFX/Weapons/AK74/deploy.ogg",
+			"shootstartsound": "",
+			"misssound": "",
+			"hitsounds": [],
+			"sightoffsetx": -0.01425,
+			"sightoffsety": 0.0015,
+			"sightmultiplier": 1.5,
+			"isviewmodel": false,
+			"applyitemtexture": false,
+			"isselectable": false,
+			"notexture": false,
+			"handsurface": 2,
+			"pump": false,
+			"pellets": 0,
+			"combat": false,
+			"shootafteranim": false,
+			"playeranimation": 0,
+			"animations": [
+				{
+					"id": 1,
+					"start": 40,
+					"end": 40,
+					"speed": 0.5
+				},
+				{
+					"id": 2,
+					"start": 1,
+					"end": 38,
+					"speed": 0.47
+				},
+				{
+					"id": 3,
+					"start": 145,
+					"end": 151,
+					"speed": 0.7
+				},
+				{
+					"id": 4,
+					"start": 143,
+					"end": 143,
+					"speed": 0.5
+				},
+				{
+					"id": 5,
+					"start": 44,
+					"end": 140,
+					"speed": 0.46
+				},
+				{
+					"id": 6,
+					"start": 143,
+					"end": 143,
+					"speed": 0.5
+				},
+				{
+					"id": 7,
+					"start": 1,
+					"end": 38,
+					"speed": -0.9
+				}
+			],
+			"itemid": 129,
+			"itemname": "AK-74",
+			"itemworldmodel": "GFX/Items/ak74_wm.b3d",
+			"itemicon": "GFX/Items/Inventory Icons/INV_ak74.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		},
+		//============================================================================================================================= G36 VIEWMODEL G36 VIEWMODEL
+		//============================================================================================================================= G36 VIEWMODEL G36 VIEWMODEL
+		{
+			"id": 20,
+			"filename": "gfx/items/weapons/g36/g36.b3d",
+			"weapontype": 1,
+			"attachid": 40,
+			"offsetx": -0.01,
+			"offsety": 0.005,
+			"offsetz": -0.02,
+			"offsetpitch": 0,
+			"offsetyaw": 0,
+			"offsetroll": 0,
+			"scale": 0.005,
+			"muzzleflashscale": 0.022,
+			"muzzleflashyaw": 6,
+			"recoil": 3,
+			"spread": 2.3,
+			"shootrate": 0.08,
+			"recoilseed": 543,
+			"damage": 1.725,
+			"maxammo": 30,
+			"maxclipammo": 120,
+			"reloadtime": 3,
+			"shootrange": 30,
+			"shootsound": "addons/MEDIUMRP/SFX/Weapons/Shoot/G36_Shoot.ogg",
+			"reloadsound": "SFX/Weapons/SR556/reload.ogg",
+			"deploysound": "SFX/Weapons/G36/deploy.ogg",
+			"shootstartsound": "",
+			"misssound": "",
+			"hitsounds": [],
+			"sightoffsetx": -0.019,
+			"sightoffsety": 0.0045,
+			"sightmultiplier": 1,
+			"isviewmodel": false,
+			"applyitemtexture": false,
+			"isselectable": false,
+			"notexture": false,
+			"handsurface": 0,
+			"pump": false,
+			"pellets": 0,
+			"combat": false,
+			"shootafteranim": false,
+			"playeranimation": 0,
+			"animations": [
+				{
+					"id": 1,
+					"start": 35,
+					"end": 35,
+					"speed": 0.5
+				},
+				{
+					"id": 2,
+					"start": 1,
+					"end": 32,
+					"speed": 0.5
+				},
+				{
+					"id": 3,
+					"start": 151,
+					"end": 168,
+					"speed": 0.5
+				},
+				{
+					"id": 4,
+					"start": 224,
+					"end": 224,
+					"speed": 0.5
+				},
+				{
+					"id": 5,
+					"start": 48,
+					"end": 150,
+					"speed": 0.5
+				},
+				{
+					"id": 6,
+					"start": 224,
+					"end": 224,
+					"speed": 0.5
+				},
+				{
+					"id": 7,
+					"start": 1,
+					"end": 32,
+					"speed": -0.7
+				}
+			],
+			"itemid": 128,
+			"itemname": "G36",
+			"itemworldmodel": "GFX/Items/g36_wm.b3d",
+			"itemicon": "GFX/Items/Inventory Icons/INV_g36.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		},
+		//============================================================================================================================= M4A1 VIEWMODEL M4A1 VIEWMODEL
+		//============================================================================================================================= M4A1 VIEWMODEL M4A1 VIEWMODEL
+		{
+			"id": 1,
+			"filename": "gfx/items/weapons/m4a1/m4a1.b3d",
+			"weapontype": 1,
+			"attachid": 19,
+			"offsetx": -0.003,
+			"offsety": -0,
+			"offsetz": -0.01,
+			"offsetpitch": 0,
+			"offsetyaw": 0,
+			"offsetroll": 0,
+			"scale": 0.005,
+			"muzzleflashscale": 0.02,
+			"muzzleflashyaw": 8,
+			"recoil": 2.6,
+			"spread": 3.5,
+			"shootrate": 0.075,
+			"recoilseed": 420,
+			"damage": 1.6000001,
+			"maxammo": 30,
+			"maxclipammo": 120,
+			"reloadtime": 3,
+			"shootrange": 30,
+			"shootsound": "addons/MEDIUMRP/SFX/Weapons/Shoot/M4A1_Shoot.ogg",
+			"reloadsound": "SFX/Weapons/M4A1/reload.ogg",
+			"deploysound": "SFX/Weapons/M4A1/deploy.ogg",
+			"shootstartsound": "",
+			"misssound": "",
+			"hitsounds": [],
+			"sightoffsetx": -0.01345,
+			"sightoffsety": 0.0045,
+			"sightmultiplier": 1.75,
+			"isviewmodel": false,
+			"applyitemtexture": false,
+			"isselectable": false,
+			"notexture": false,
+			"handsurface": 0,
+			"pump": false,
+			"pellets": 0,
+			"combat": false,
+			"shootafteranim": false,
+			"playeranimation": 0,
+			"animations": [
+				{
+					"id": 1,
+					"start": 45,
+					"end": 45,
+					"speed": 0.5
+				},
+				{
+					"id": 2,
+					"start": 1,
+					"end": 43,
+					"speed": 0.6
+				},
+				{
+					"id": 3,
+					"start": 188,
+					"end": 202,
+					"speed": 0.6
+				},
+				{
+					"id": 4,
+					"start": 204,
+					"end": 204,
+					"speed": 1
+				},
+				{
+					"id": 5,
+					"start": 51,
+					"end": 155,
+					"speed": 0.6
+				},
+				{
+					"id": 6,
+					"start": 204,
+					"end": 204,
+					"speed": 1
+				},
+				{
+					"id": 7,
+					"start": 1,
+					"end": 43,
+					"speed": -1
+				}
+			],
+			"itemid": 109,
+			"itemname": "M4A1",
+			"itemworldmodel": "GFX/Items/m4a1_wm.b3d",
+			"itemicon": "GFX/Items/Inventory Icons/INV_m4a1.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		},
+		//============================================================================================================================= AEK-971 VIEWMODEL AEK-971 VIEWMODEL
+		//============================================================================================================================= AEK-971 VIEWMODEL AEK-971 VIEWMODEL
+		{
+			"id": 80,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/AEK-971/AEK-971_Viewmodel.b3d",
+			"type": 1,
+			"attachid": 81,
+			"offsetx": 0.0,
+			"offsety": -0.0025,
+			"offsetz": -0.01,
+			"offsetpitch": -1.5,
+			"offsetyaw": 0.78,
+			"offsetroll": 0,
+			"scale": 0.005,
+			"muzzleflashscale": 0.023,
+			"muzzleflashyaw": 8,
+			"recoil": 3.35,
+			"spread": 2.35,
+			"shootrate": 0.066,
+			"recoilseed": 999,
+			"damage": 1.6,
+			"maxammo": 30,
+			"maxclipammo": 120,
+			"reloadtime": 3.25,
+			"shootrange": 30,
+			"shootsound": "addons/MEDIUMRP/SFX/Weapons/Shoot/AEK-971_Shoot.ogg",
+			"reloadsound": "addons/MEDIUMRP/SFX/Weapons/Reload/AEK-971_Reload.ogg",
+			"deploysound": "addons/MEDIUMRP/SFX/Weapons/Deploy/Custom_Deploy.ogg",
+			"sightoffsetx": -0.01205,
+			"sightoffsety": 0.0047,
+			"sightmultiplier": 2,
+			"isviewmodel": false,
+			"animations": [
+			{
+				"id": 1,
+				"start": 32,
+				"end": 34,
+				"speed": 1
+			},
+			{
+				"id": 2,
+				"start": 1,
+				"end": 31,
+				"speed": 0.55
+			},
+			{
+				"id": 3,
+				"start": 126,
+				"end": 144,
+				"speed": 2
+			},
+			{
+				"id": 4,
+				"start": 183,
+				"end": 183,
+				"speed": 1
+			},
+			{
+				"id": 5,
+				"start": 35,
+				"end": 125,
+				"speed": 0.55
+			},
+			{
+				"id": 6,
+				"start": 183,
+				"end": 183,
+				"speed": 1
+			},
+			{
+				"id": 7,
+				"start": 1,
+				"end": 31,
+				"speed": -0.9
+			}
+		],
+			"itemid": 310,
+			"itemname": "AEK-971",
+			"itemworldmodel": "addons/MEDIUMRP/GFX/WEAPONS/AEK-971/AEK-971_Worldmodel.b3d",
+			"itemicon": "addons/MEDIUMRP/GFX/WEAPONS/Inventory Icons/INV_AEK-971.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		},
+		//============================================================================================================================= AK-12 VIEWMODEL AK-12 VIEWMODEL
+		//============================================================================================================================= AK-12 VIEWMODEL AK-12 VIEWMODEL
+		{
+			"id": 81,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/AK-12/AK-12_Viewmodel.b3d",
+			"type": 1,
+			"attachid": 82,
+			"offsetx": -0.003,
+			"offsety": 0,
+			"offsetz": -0.01,
+			"offsetpitch": 0,
+			"offsetyaw": 0,
+			"offsetroll": 0,
+			"scale": 0.005,
+			"muzzleflashscale": 0.02,
+			"muzzleflashyaw": 8,
+			"recoil": 2.7,
+			"spread": 2.6,
+			"shootrate": 0.092,
+			"recoilseed": 120,
+			"damage": 1.82,
+			"maxammo": 30,
+			"maxclipammo": 120,
+			"reloadtime": 3,
+			"shootrange": 30,
+			"shootsound": "addons/MEDIUMRP/SFX/Weapons/Shoot/AK-12_Shoot.ogg",
+			"reloadsound": "addons/MEDIUMRP/SFX/Weapons/Reload/AK-12_Reload.ogg",
+			"deploysound": "addons/MEDIUMRP/SFX/Weapons/Deploy/Custom_Deploy.ogg",
+			"sightoffsetx": -0.0105,
+			"sightoffsety": -0.0002,
+			"sightmultiplier": 1.75,
+			"isviewmodel": false,
+			"animations": [
+				{
+					"id": 1,
+					"start": 25,
+					"end": 26,
+					"speed": 1.0
+				},
+				{
+					"id": 2,
+					"start": 2,
+					"end": 24,
+					"speed": 0.5
+				},
+				{
+					"id": 3,
+					"start": 162,
+					"end": 201,
+					"speed": 0.8
+				},
+				{
+					"id": 4,
+					"start": 281,
+					"end": 281,
+					"speed": 1.0
+				},
+				{
+					"id": 5,
+					"start": 27,
+					"end": 161,
+					"speed": 0.7
+				},
+				{
+					"id": 6,
+					"start": 281,
+					"end": 281,
+					"speed": 1.0
+				},
+				{
+					"id": 7,
+					"start": 2,
+					"end": 24,
+					"speed": -0.9
+				}
+			],
+			"itemid": 311,
+			"itemname": "AK-12",
+			"itemworldmodel": "addons/MEDIUMRP/GFX/WEAPONS/AK-12/AK-12_Worldmodel.b3d",
+			"itemicon": "addons/MEDIUMRP/GFX/WEAPONS/Inventory Icons/INV_AK-12.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		},
+		//============================================================================================================================= AK-47 VIEWMODEL AK-47 VIEWMODEL
+		//============================================================================================================================= AK-47 VIEWMODEL AK-47 VIEWMODEL
+		{
+			"id": 82,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/AK-47/AK-47_Viewmodel.b3d",
+			"type": 1,
+			"attachid": 83,
+			"offsetx": -0.003,
+			"offsety": 0,
+			"offsetz": -0.015,
+			"offsetpitch": -1.25,
+			"offsetyaw": 0,
+			"offsetroll": 0,
+			"scale": 0.005,
+			"muzzleflashscale": 0.02,
+			"muzzleflashyaw": 8,
+			"recoil": 3.2,
+			"spread": 2,
+			"shootrate": 0.1,
+			"recoilseed": 1337,
+			"damage": 1.85,
+			"maxammo": 30,
+			"maxclipammo": 120,
+			"reloadtime": 3,
+			"shootrange": 30,
+			"shootsound": "addons/MEDIUMRP/SFX/Weapons/Shoot/AK-47_Shoot.ogg",
+			"reloadsound": "addons/MEDIUMRP/SFX/Weapons/Reload/AK-47_Reload.ogg",
+			"deploysound": "addons/MEDIUMRP/SFX/Weapons/Deploy/Custom_Deploy.ogg",
+			"sightoffsetx": -0.0161,
+			"sightoffsety": 0.0047,
+			"sightmultiplier": 2,
+			"isviewmodel": false,
+			"animations": [
+				{
+					"id": 1,
+					"start": 32,
+					"end": 34,
+					"speed": 1
+				},
+				{
+					"id": 2,
+					"start": 1,
+					"end": 31,
+					"speed": 0.4
+				},
+				{
+					"id": 3,
+					"start": 126,
+					"end": 141,
+					"speed": 1.0
+				},
+				{
+					"id": 4,
+					"start": 174,
+					"end": 174,
+					"speed": 1
+				},
+				{
+					"id": 5,
+					"start": 35,
+					"end": 125,
+					"speed": 0.5
+				},
+				{
+					"id": 6,
+					"start": 174,
+					"end": 174,
+					"speed": 1
+				},
+				{
+					"id": 7,
+					"start": 1,
+					"end": 31,
+					"speed": -0.7
+				}
+			],
+			"itemid": 312,
+			"itemname": "AK-47",
+			"itemworldmodel": "addons/MEDIUMRP/GFX/WEAPONS/AK-47/AK-47_Worldmodel.b3d",
+			"itemicon": "addons/MEDIUMRP/GFX/WEAPONS/Inventory Icons/INV_AK-47.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		},
+		//============================================================================================================================= AKS-74U VIEWMODEL AKS-74U VIEWMODEL
+		//============================================================================================================================= AKS-74U VIEWMODEL AKS-74U VIEWMODEL
+		{
+			"id": 83,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/AKS-74U/AKS-74U_Viewmodel.b3d",
+			"type": 1,
+			"attachid": 84,
+			"offsetx": -0.001,
+			"offsety": 0,
+			"offsetz": -0.01,
+			"offsetpitch": 0,
+			"offsetyaw": 0,
+			"offsetroll": 0,
+			"scale": 0.005,
+			"muzzleflashscale": 0.022,
+			"muzzleflashyaw": 8,
+			"recoil": 3.5,
+			"spread": 3,
+			"shootrate": 0.092,
+			"recoilseed": 740,
+			"damage": 1.67,
+			"maxammo": 30,
+			"maxclipammo": 120,
+			"reloadtime": 3,
+			"shootrange": 30,
+			"shootsound": "addons/MEDIUMRP/SFX/Weapons/Shoot/AKS-74U_Shoot.ogg",
+			"reloadsound": "addons/MEDIUMRP/SFX/Weapons/Reload/AKS-74U_Reload.ogg",
+			"deploysound": "addons/MEDIUMRP/SFX/Weapons/Deploy/AKS-74U_Deploy.ogg",
+			"sightoffsetx": -0.0093,
+			"sightoffsety": 0.0005,
+			"sightmultiplier": 1.75,
+			"isviewmodel": false,
+			"animations": [
+				{
+					"id": 1,
+					"start": 45,
+					"end": 45,
+					"speed": 1.0
+				},
+				{
+					"id": 2,
+					"start": 2,
+					"end": 44,
+					"speed": 0.6
+				},
+				{
+					"id": 3,
+					"start": 168,
+					"end": 195,
+					"speed": 0.8
+				},
+				{
+					"id": 4,
+					"start": 257,
+					"end": 257,
+					"speed": 1.0
+				},
+				{
+					"id": 5,
+					"start": 85,
+					"end": 165,
+					"speed": 0.55
+				},
+				{
+					"id": 6,
+					"start": 257,
+					"end": 257,
+					"speed": 1.0
+				},
+				{
+					"id": 7,
+					"start": 2,
+					"end": 44,
+					"speed": -0.9
+				}
+			],
+			"itemid": 313,
+			"itemname": "AKS-74U",
+			"itemworldmodel": "addons/MEDIUMRP/GFX/WEAPONS/AKS-74U/AKS-74U_Worldmodel.b3d",
+			"itemicon": "addons/MEDIUMRP/GFX/WEAPONS/Inventory Icons/INV_AKS-74U.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		},
+		//============================================================================================================================= M4A1-Colt VIEWMODEL M4A1-Colt VIEWMODEL
+		//============================================================================================================================= M4A1-Colt VIEWMODEL M4A1-Colt VIEWMODEL
+		{
+			"id": 84,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/M4A1-Colt/M4A1-Colt_Viewmodel.b3d",
+			"type": 1,
+			"attachid": 85,
+			"offsetx": -0.003,
+			"offsety": 0,
+			"offsetz": -0.01,
+			"offsetpitch": 0,
+			"offsetyaw": 0,
+			"offsetroll": 0,
+			"scale": 0.005,
+			"muzzleflashscale": 0.022,
+			"muzzleflashyaw": 8,
+			"recoil": 2,
+			"spread": 2.8,
+			"shootrate": 0.075,
+			"recoilseed": 450,
+			"damage": 1.6000001,
+			"maxammo": 30,
+			"maxclipammo": 120,
+			"reloadtime": 3,
+			"shootrange": 30,
+			"shootsound": "addons/MEDIUMRP/SFX/Weapons/Shoot/M4_Shoot.ogg",
+			"reloadsound": "addons/MEDIUMRP/SFX/Weapons/Reload/M4_Reload.ogg",
+			"deploysound": "addons/MEDIUMRP/SFX/Weapons/Deploy/M4_Deploy.ogg",
+			"sightoffsetx": -0.01695,
+			"sightoffsety": 0.0055,
+			"sightmultiplier": 3,
+			"isviewmodel": false,
+			"animations": [
+				{
+					"id": 1,
+					"start": 47,
+					"end": 104,
+					"speed": 0.5
+				},
+				{
+					"id": 2,
+					"start": 1,
+					"end": 46,
+					"speed": 0.6
+				},
+				{
+					"id": 3,
+					"start": 208,
+					"end": 233,
+					"speed": 0.6
+				},
+				{
+					"id": 4,
+					"start": 286,
+					"end": 286,
+					"speed": 1
+				},
+				{
+					"id": 5,
+					"start": 105,
+					"end": 207,
+					"speed": 0.6
+				},
+				{
+					"id": 6,
+					"start": 286,
+					"end": 286,
+					"speed": 1
+				},
+				{
+					"id": 7,
+					"start": 1,
+					"end": 46,
+					"speed": -1
+				}
+			],
+			"itemid": 314,
+			"itemname": "M4",
+			"itemworldmodel": "addons/MEDIUMRP/GFX/WEAPONS/M4A1-Colt/M4A1-Colt_Worldmodel.b3d",
+			"itemicon": "addons/MEDIUMRP/GFX/WEAPONS/Inventory Icons/INV_M4.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		},
+		//============================================================================================================================= M4A1-S VIEWMODEL M4A1-S VIEWMODEL
+		//============================================================================================================================= M4A1-S VIEWMODEL M4A1-S VIEWMODEL
+		{
+			"id": 85,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/M4A1-S/M4A1-S_Viewmodel.b3d",
+			"type": 1,
+			"attachid": 86,
+			"offsetx": -0.003,
+			"offsety": 0,
+			"offsetz": -0.01,
+			"offsetpitch": 0,
+			"offsetyaw": 0,
+			"offsetroll": 0,
+			"scale": 0.005,
+			"muzzleflashscale": 0,
+			"muzzleflashyaw": 0,
+			"recoil": 2.3,
+			"spread": 2.5,
+			"shootrate": 0.075,
+			"recoilseed": 470,
+			"damage": 1.6000001,
+			"maxammo": 30,
+			"maxclipammo": 120,
+			"reloadtime": 3,
+			"shootrange": 30,
+			"shootsound": "addons/MEDIUMRP/SFX/Weapons/Shoot/M4A1-S_Shoot.ogg",
+			"reloadsound": "addons/MEDIUMRP/SFX/Weapons/Reload/M4A1-S_Reload.ogg",
+			"deploysound": "addons/MEDIUMRP/SFX/Weapons/Deploy/M4_deploy.ogg",
+			"sightoffsetx": -0.01345,
+			"sightoffsety": 0.0042,
+			"sightmultiplier": 1.5,
+			"isviewmodel": false,
+			"animations": [
+				{
+					"id": 1,
+					"start": 45,
+					"end": 45,
+					"speed": 0.5
+				},
+				{
+					"id": 2,
+					"start": 1,
+					"end": 43,
+					"speed": 0.6
+				},
+				{
+					"id": 3,
+					"start": 188,
+					"end": 202,
+					"speed": 0.6
+				},
+				{
+					"id": 4,
+					"start": 204,
+					"end": 204,
+					"speed": 1
+				},
+				{
+					"id": 5,
+					"start": 51,
+					"end": 155,
+					"speed": 0.6
+				},
+				{
+					"id": 6,
+					"start": 204,
+					"end": 204,
+					"speed": 1
+				},
+				{
+					"id": 7,
+					"start": 1,
+					"end": 43,
+					"speed": -1
+				}
+			],
+			"itemid": 315,
+			"itemname": "M4A1-S",
+			"itemworldmodel": "addons/MEDIUMRP/GFX/WEAPONS/M4A1-S/M4A1-S_Worldmodel.b3d",
+			"itemicon": "addons/MEDIUMRP/GFX/WEAPONS/Inventory Icons/INV_M4A1-S.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		},
+		//============================================================================================================================= M249 VIEWMODEL M249 VIEWMODEL
+		//============================================================================================================================= M249 VIEWMODEL M249 VIEWMODEL
+		{
+			"id": 86,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/M249/M249_Viewmodel.b3d",
+			"type": 1,
+			"attachid": 87,
+			"offsetx": -0.003,
+			"offsety": 0,
+			"offsetz": 0,
+			"offsetpitch": -0.45,
+			"offsetyaw": 0,
+			"offsetroll": 0,
+			"scale": 0.005,
+			"muzzleflashscale": 0.025,
+			"muzzleflashyaw": 8,
+			"recoil": 3.6,
+			"spread": 2.35,
+			"shootrate": 0.075,
+			"recoilseed": 777,
+			"damage": 1.8000001,
+			"maxammo": 200,
+			"maxclipammo": 400,
+			"reloadtime": 6,
+			"shootrange": 30,
+			"shootsound": "addons/MEDIUMRP/SFX/Weapons/Shoot/M249_Shoot.ogg",
+			"reloadsound": "addons/MEDIUMRP/SFX/Weapons/Reload/M249_Reload.ogg",
+			"deploysound": "addons/MEDIUMRP/SFX/Weapons/Deploy/MG_Deploy.ogg",
+			"sightoffsetx": -0.00725,
+			"sightoffsety": 0.00475,
+			"sightmultiplier": 1.75,
+			"isviewmodel": false,
+			"animations": [
+				{
+					"id": 1,
+					"start": 32,
+					"end": 34,
+					"speed": 1
+				},
+				{
+					"id": 2,
+					"start": 1,
+					"end": 31,
+					"speed": 0.6
+				},
+				{
+					"id": 3,
+					"start": 346,
+					"end": 386,
+					"speed": 0.8
+				},
+				{
+					"id": 4,
+					"start": 428,
+					"end": 428,
+					"speed": 1
+				},
+				{
+					"id": 5,
+					"start": 35,
+					"end": 345,
+					"speed": 0.7
+				},
+				{
+					"id": 6,
+					"start": 427,
+					"end": 427,
+					"speed": 1
+				},
+				{
+					"id": 7,
+					"start": 1,
+					"end": 31,
+					"speed": -0.9
+				}
+			],
+			"itemid": 316,
+			"itemname": "M249",
+			"itemworldmodel": "addons/MEDIUMRP/GFX/WEAPONS/M249/M249_Worldmodel.b3d",
+			"itemicon": "addons/MEDIUMRP/GFX/WEAPONS/Inventory Icons/INV_M249.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		},
+		//============================================================================================================================= M1014 VIEWMODEL M1014 VIEWMODEL
+		//============================================================================================================================= M1014 VIEWMODEL M1014 VIEWMODEL
+		{
+			"id": 87,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/M1014/M1014_Viewmodel.b3d",
+			"type": 1,
+			"attachid": 88,
+			"offsetx": -0.0005,
+			"offsety": 0,
+			"offsetz": -0.005,
+			"offsetpitch": -1,
+			"offsetyaw": -0.1,
+			"offsetroll": -3,
+			"scale": 0.005,
+			"muzzleflashscale": 0.038,
+			"muzzleflashyaw": 6,
+			"recoil": 6.5,
+			"spread": 3.8,
+			"shootrate": 0.275,
+			"recoilseed": 1014,
+			"damage": 1.15,
+			"maxammo": 8,
+			"maxclipammo": 60,
+			"pellets": 6,
+			"reloadtime": 4,
+			"shootrange": 30,
+			"shootsound": "addons/MEDIUMRP/SFX/Weapons/Shoot/M1014_Shoot.ogg",
+			"reloadsound": "addons/MEDIUMRP/SFX/Weapons/Reload/M1014_Reload.ogg",
+			"deploysound": "addons/MEDIUMRP/SFX/Weapons/Deploy/Custom_Deploy.ogg",
+			"sightoffsetx": -0.01175,
+			"sightoffsety": 0.006,
+			"sightmultiplier": 2,
+			"isviewmodel": false,
+			"animations": [
+				{
+					"id": 1,
+					"start": 28,
+					"end": 29,
+					"speed": 1
+				},
+				{
+					"id": 2,
+					"start": 2,
+					"end": 27,
+					"speed": 0.6
+				},
+				{
+					"id": 3,
+					"start": 226,
+					"end": 244,
+					"speed": 0.8
+				},
+				{
+					"id": 4,
+					"start": 271,
+					"end": 271,
+					"speed": 1
+				},
+				{
+					"id": 5,
+					"start": 30,
+					"end": 225,
+					"speed": 0.7
+				},
+				{
+					"id": 6,
+					"start": 270,
+					"end": 270,
+					"speed": 1.0
+				},
+				{
+					"id": 7,
+					"start": 2,
+					"end": 27,
+					"speed": -0.6
+				}
+			],
+			"itemid": 317,
+			"itemname": "M1014",
+			"itemworldmodel": "addons/MEDIUMRP/GFX/WEAPONS/M1014/M1014_Worldmodel.b3d",
+			"itemicon": "addons/MEDIUMRP/GFX/WEAPONS/Inventory Icons/INV_M1014.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		},
+		//============================================================================================================================= PKP VIEWMODEL PKP VIEWMODEL
+		//============================================================================================================================= PKP VIEWMODEL PKP VIEWMODEL
+		{
+			"id": 88,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/PKP/PKP_Viewmodel.b3d",
+			"type": 1,
+			"attachid": 89,
+			"offsetx": -0.003,
+			"offsety": 0,
+			"offsetz": -0.01,
+			"offsetpitch": 0,
+			"offsetyaw": 0,
+			"offsetroll": -0.5,
+			"scale": 0.005,
+			"muzzleflashscale": 0.025,
+			"muzzleflashyaw": 8,
+			"recoil": 3.8,
+			"spread": 2.5,
+			"shootrate": 0.09,
+			"recoilseed": 666,
+			"damage": 1.83,
+			"maxammo": 150,
+			"maxclipammo": 300,
+			"reloadtime": 6,
+			"shootrange": 30,
+			"shootsound": "addons/MEDIUMRP/SFX/Weapons/Shoot/PKP_Shoot.ogg",
+			"reloadsound": "addons/MEDIUMRP/SFX/Weapons/Reload/PKP_Reload.ogg",
+			"deploysound": "addons/MEDIUMRP/SFX/Weapons/Deploy/MG_Deploy.ogg",
+			"sightoffsetx": -0.0102,
+			"sightoffsety": -0.0005,
+			"sightmultiplier": 2.3,
+			"isviewmodel": false,
+			"animations": [
+				{
+					"id": 1,
+					"start": 48,
+					"end": 58,
+					"speed": 1
+				},
+				{
+					"id": 2,
+					"start": 1,
+					"end": 47,
+					"speed": 0.8
+				},
+				{
+					"id": 3,
+					"start": 210,
+					"end": 235,
+					"speed": 2.5
+				},
+				{
+					"id": 4,
+					"start": 262,
+					"end": 262,
+					"speed": 1
+				},
+				{
+					"id": 5,
+					"start": 59,
+					"end": 209,
+					"speed": 0.5
+				},
+				{
+					"id": 6,
+					"start": 262,
+					"end": 262,
+					"speed": 1.0
+				},
+				{
+					"id": 7,
+					"start": 1,
+					"end": 47,
+					"speed": -0.7
+				}
+			],
+			"itemid": 318,
+			"itemname": "PKP Pecheneg",
+			"itemworldmodel": "addons/MEDIUMRP/GFX/WEAPONS/PKP/PKP_Worldmodel.b3d",
+			"itemicon": "addons/MEDIUMRP/GFX/WEAPONS/Inventory Icons/INV_PKP.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		},
+		//============================================================================================================================= SCAR-L VIEWMODEL SCAR-L VIEWMODEL
+		//============================================================================================================================= SCAR-L VIEWMODEL SCAR-L VIEWMODEL
+		{
+			"id": 89,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/SCAR-L/SCAR-L_Viewmodel.b3d",
+			"type": 1,
+			"attachid": 90,
+			"offsetx": -0.003,
+			"offsety": 0,
+			"offsetz": -0.01,
+			"offsetpitch": 0,
+			"offsetyaw": 0,
+			"offsetroll": -4,
+			"scale": 0.005,
+			"muzzleflashscale": 0.023,
+			"muzzleflashyaw": 8,
+			"recoil": 2.6,
+			"spread": 2.25,
+			"shootrate": 0.095,
+			"recoilseed": 302,
+			"damage": 1.8,
+			"maxammo": 30,
+			"maxclipammo": 120,
+			"reloadtime": 3,
+			"shootrange": 30,
+			"shootsound": "addons/MEDIUMRP/SFX/Weapons/Shoot/SCAR-L_Shoot.ogg",
+			"reloadsound": "addons/MEDIUMRP/SFX/Weapons/Reload/SCAR-L_Reload.ogg",
+			"deploysound": "addons/MEDIUMRP/SFX/Weapons/Deploy/SCAR-L_Deploy.ogg",
+			"sightoffsetx": -0.01305,
+			"sightoffsety": 0.00085,
+			"sightmultiplier": 3,
+			"isviewmodel": false,
+			"animations": [
+				{
+					"id": 1,
+					"start": 40,
+					"end": 40,
+					"speed": 1
+				},
+				{
+					"id": 2,
+					"start": 1,
+					"end": 39,
+					"speed": 0.6
+				},
+				{
+					"id": 3,
+					"start": 302,
+					"end": 322,
+					"speed": 0.8
+				},
+				{
+					"id": 4,
+					"start": 365,
+					"end": 365,
+					"speed": 1
+				},
+				{
+					"id": 5,
+					"start": 221,
+					"end": 301,
+					"speed": 0.5
+				},
+				{
+					"id": 6,
+					"start": 365,
+					"end": 365,
+					"speed": 1.0
+				},
+				{
+					"id": 7,
+					"start": 1,
+					"end": 39,
+					"speed": -0.7
+				}
+			],
+			"itemid": 319,
+			"itemname": "SCAR-L",
+			"itemworldmodel": "addons/MEDIUMRP/GFX/WEAPONS/SCAR-L/SCAR-L_Worldmodel.b3d",
+			"itemicon": "addons/MEDIUMRP/GFX/WEAPONS/Inventory Icons/INV_SCAR-L.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		},
+		//============================================================================================================================= SR-2M VIEWMODEL SR-2M VIEWMODEL
+		//============================================================================================================================= SR-2M VIEWMODEL SR-2M VIEWMODEL
+		{
+			"id": 90,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/SR-2M/SR-2M_Viewmodel.b3d",
+			"type": 1,
+			"attachid": 91,
+			"offsetx": -0.002,
+			"offsety": 0.0035,
+			"offsetz": -0.007,
+			"offsetpitch": 0,
+			"offsetyaw": 0,
+			"offsetroll": 0,
+			"scale": 0.005,
+			"muzzleflashscale": 0.012,
+			"muzzleflashyaw": 8,
+			"recoil": 2.5,
+			"spread": 3.2,
+			"shootrate": 0.066,
+			"recoilseed": 696,
+			"damage": 1.55,
+			"maxammo": 20,
+			"maxclipammo": 160,
+			"reloadtime": 3,
+			"shootrange": 30,
+			"shootsound": "addons/MEDIUMRP/SFX/Weapons/Shoot/SR-2M_Shoot.ogg",
+			"reloadsound": "addons/MEDIUMRP/SFX/Weapons/Reload/SR-2M_Reload.ogg",
+			"deploysound": "addons/MEDIUMRP/SFX/Weapons/Deploy/Custom_Deploy.ogg",
+			"sightoffsetx": -0.0087,
+			"sightoffsety": 0.0028,
+			"sightmultiplier": 1.75,
+			"isviewmodel": false,
+			"animations": [
+				{
+					"id": 1,
+					"start": 31,
+					"end": 32,
+					"speed": 1
+				},
+				{
+					"id": 2,
+					"start": 2,
+					"end": 30,
+					"speed": 0.6
+				},
+				{
+					"id": 3,
+					"start": 174,
+					"end": 189,
+					"speed": 0.8
+				},
+				{
+					"id": 4,
+					"start": 206,
+					"end": 206,
+					"speed": 1
+				},
+				{
+					"id": 5,
+					"start": 33,
+					"end": 173,
+					"speed": 0.7
+				},
+				{
+					"id": 6,
+					"start": 205,
+					"end": 205,
+					"speed": 1
+				},
+				{
+					"id": 7,
+					"start": 2,
+					"end": 30,
+					"speed": -0.9
+				}
+			],
+			"itemid": 320,
+			"itemname": "SR-2M",
+			"itemworldmodel": "addons/MEDIUMRP/GFX/WEAPONS/SR-2M/SR-2M_Worldmodel.b3d",
+			"itemicon": "addons/MEDIUMRP/GFX/WEAPONS/Inventory Icons/INV_SR-2M.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		},
+		//============================================================================================================================= USP VIEWMODEL USP VIEWMODEL
+		//============================================================================================================================= USP VIEWMODEL USP VIEWMODEL
+		{
+			"id": 91,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/USP/USP_Viewmodel.b3d",
+			"type": 0,
+			"attachid": 92,
+			"offsetx": 0.005,
+			"offsety": 0,
+			"offsetz": 0.008,
+			"offsetpitch": 0,
+			"offsetyaw": 0,
+			"offsetroll": 0,
+			"scale": 0.005,
+			"muzzleflashscale": 0.011,
+			"muzzleflashyaw": 6,
+			"recoil": 2.3,
+			"spread": 1.7,
+			"shootrate": 0.235,
+			"recoilseed": 90,
+			"damage": 2.35,
+			"maxammo": 12,
+			"maxclipammo": 48,
+			"reloadtime": 2.428571,
+			"shootrange": 30,
+			"shootsound": "addons/MEDIUMRP/SFX/Weapons/Shoot/USP_Shoot.ogg",
+			"reloadsound": "SFX/Weapons/Glock/reload.ogg",
+			"deploysound": "SFX/Weapons/Glock/deploy.ogg",
+			"sightoffsetx": -0.015,
+			"sightoffsety": 0.0062,
+			"sightmultiplier": 1,
+			"isviewmodel": false,
+			"animations": [
+				{
+					"id": 1,
+					"start": 43,
+					"end": 69,
+					"speed": 0.7
+				},
+				{
+					"id": 2,
+					"start": 1,
+					"end": 42,
+					"speed": 0.8
+				},
+				{
+					"id": 3,
+					"start": 167,
+					"end": 192,
+					"speed": 0.7
+				},
+				{
+					"id": 4,
+					"start": 245,
+					"end": 245,
+					"speed": 1
+				},
+				{
+					"id": 5,
+					"start": 70,
+					"end": 166,
+					"speed": 0.7
+				},
+				{
+					"id": 6,
+					"start": 245,
+					"end": 245,
+					"speed": 1
+				},
+				{
+					"id": 7,
+					"start": 1,
+					"end": 42,
+					"speed": -1.2
+				}
+			],
+			"itemid": 321,
+			"itemname": "HK USP",
+			"itemworldmodel": "addons/MEDIUMRP/GFX/WEAPONS/USP/USP_Worldmodel.b3d",
+			"itemicon": "addons/MEDIUMRP/GFX/WEAPONS/Inventory Icons/INV_USP.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		},
+		//============================================================================================================================= USP-S VIEWMODEL USP-S VIEWMODEL
+		//============================================================================================================================= USP-S VIEWMODEL USP-S VIEWMODEL
+		{
+			"id": 92,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/USP-S/USP-S_Viewmodel.b3d",
+			"type": 0,
+			"attachid": 93,
+			"offsetx": 0.005,
+			"offsety": 0,
+			"offsetz": 0.008,
+			"offsetpitch": 0,
+			"offsetyaw": 0,
+			"offsetroll": 0,
+			"scale": 0.005,
+			"muzzleflashscale": 0,
+			"muzzleflashyaw": 0,
+			"recoil": 1.5,
+			"spread": 1.35,
+			"shootrate": 0.235,
+			"recoilseed": 95,
+			"damage": 2.35,
+			"maxammo": 12,
+			"maxclipammo": 48,
+			"reloadtime": 2.428571,
+			"shootrange": 30,
+			"shootsound": "addons/MEDIUMRP/SFX/Weapons/Shoot/USP-S_Shoot.ogg",
+			"reloadsound": "SFX/Weapons/Glock/reload.ogg",
+			"deploysound": "SFX/Weapons/Glock/deploy.ogg",
+			"sightoffsetx": -0.015,
+			"sightoffsety": 0.0062,
+			"sightmultiplier": 1,
+			"isviewmodel": false,
+			"animations": [
+				{
+					"id": 1,
+					"start": 43,
+					"end": 69,
+					"speed": 0.7
+				},
+				{
+					"id": 2,
+					"start": 1,
+					"end": 42,
+					"speed": 0.8
+				},
+				{
+					"id": 3,
+					"start": 167,
+					"end": 192,
+					"speed": 0.7
+				},
+				{
+					"id": 4,
+					"start": 245,
+					"end": 245,
+					"speed": 1
+				},
+				{
+					"id": 5,
+					"start": 70,
+					"end": 166,
+					"speed": 0.7
+				},
+				{
+					"id": 6,
+					"start": 245,
+					"end": 245,
+					"speed": 1
+				},
+				{
+					"id": 7,
+					"start": 1,
+					"end": 42,
+					"speed": -1.2
+				}
+			],
+			"itemid": 322,
+			"itemname": "HK USP-S",
+			"itemworldmodel": "addons/MEDIUMRP/GFX/WEAPONS/USP-S/USP-S_Worldmodel.b3d",
+			"itemicon": "addons/MEDIUMRP/GFX/WEAPONS/Inventory Icons/INV_USP-S.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		},
+		//============================================================================================================================= VAL VIEWMODEL VAL VIEWMODEL
+		//============================================================================================================================= VAL VIEWMODEL VAL VIEWMODEL
+		{
+			"id": 93,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/VAL/VAL_Viewmodel.b3d",
+			"type": 1,
+			"attachid": 94,
+			"offsetx": -0.003,
+			"offsety": 0,
+			"offsetz": -0.007,
+			"offsetpitch": 0,
+			"offsetyaw": 0,
+			"offsetroll": 0,
+			"scale": 0.005,
+			"muzzleflashscale": 0,
+			"muzzleflashyaw": 0,
+			"recoil": 3.5,
+			"spread": 2.35,
+			"shootrate": 0.066,
+			"recoilseed": 600,
+			"damage": 1.82,
+			"maxammo": 20,
+			"maxclipammo": 100,
+			"reloadtime": 3,
+			"shootrange": 30,
+			"shootsound": "addons/MEDIUMRP/SFX/Weapons/Shoot/VAL_Shoot.ogg",
+			"reloadsound": "addons/MEDIUMRP/SFX/Weapons/Reload/VAL_Reload.ogg",
+			"deploysound": "addons/MEDIUMRP/SFX/Weapons/Deploy/VAL_Deploy.ogg",
+			"sightoffsetx": -0.00845,
+			"sightoffsety": 0.0045,
+			"sightmultiplier": 1.8,
+			"isviewmodel": false,
+			"animations": [
+				{
+					"id": 1,
+					"start": 24,
+					"end": 25,
+					"speed": 1
+				},
+				{
+					"id": 2,
+					"start": 1,
+					"end": 23,
+					"speed": 0.7
+				},
+				{
+					"id": 3,
+					"start": 122,
+					"end": 161,
+					"speed": 2
+				},
+				{
+					"id": 4,
+					"start": 242,
+					"end": 242,
+					"speed": 1.0
+				},
+				{
+					"id": 5,
+					"start": 26,
+					"end": 121,
+					"speed": 0.5
+				},
+				{
+					"id": 6,
+					"start": 242,
+					"end": 242,
+					"speed": 1.0
+				},
+				{
+					"id": 7,
+					"start": 1,
+					"end": 23,
+					"speed": -0.8
+				}
+			],
+			"itemid": 323,
+			"itemname": "AS-VAL",
+			"itemworldmodel": "addons/MEDIUMRP/GFX/WEAPONS/VAL/VAL_Worldmodel.b3d",
+			"itemicon": "addons/MEDIUMRP/GFX/WEAPONS/Inventory Icons/INV_VAL.png",
+			"itemscale": 0.0644655,
+			"itempicksound": 1
+		}
+	],
+	"items": [
+		{
+			"id": 306,
+			"name": "Recontainment Box",
+			"worldmodel": "addons/MEDIUMRP/GFX/CONTAINMENT/hard_case.b3d",
+			"icon": "addons/MEDIUMRP/GFX/CONTAINMENT/INV_Hardcase.png",
+			"scale": 0.016,
+			"picksound": 1
+		}
+	],
+	"attaches": [
+		{
+			"id": 64,
+			"filename": "addons/MEDIUMRP/GFX/CONTAINMENT/scp096_bag.b3d",
+			"presets": [
+				{
+					"id": 7,
+					"bone": "spine_005",
+					"offsetx": 17.67597,
+					"offsety": 0.050001,
+					"offsetz": 20.09385,
+					"scale": 13.917816,
+					"variety": 0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 90.09259
+				}
+			]
+		},
+		{
+			"id": 64,
+			"filename": "addons/MEDIUMRP/GFX/CONTAINMENT/scp096_bag.b3d",
+			"presets": [
+				{
+					"id": 8,
+					"bone": "head",
+					"offsetx": 0.0,
+					"offsety": -1.492,
+					"offsetz": 1.0300012,
+					"scale": 0.9999999,
+					"variety": 0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0
+				}
+			]
+		},
+		{
+			"id": 63,
+			"filename": "GFX/NPCs/scp_173_box.b3d",
+			"presets": [
+				{
+					"id": 3,
+					"bone": "Skeleton", 
+					"offsetx": 0.0,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"scale": 0.07,
+					"variety": 0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0
+				}
+			]
+		},
+		{
+			"id": 64,
+			"filename": "addons/MEDIUMRP/GFX/CONTAINMENT/scp096_bag.b3d",
+			"presets": [
+				{
+					"id": 5,
+					"bone": "Bone_019",
+					"offsetx": 0.145,
+					"offsety": 0.0,
+					"offsetz": 0.387,
+					"scale": 0.1905,
+					"variety": 0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 33.0,
+					"offsetroll": 90.0
+				}
+			]
+		},
+		//============================================================================================================================= AK-74 ATTACHMENT AK-74 ATTACHMENT
+		//============================================================================================================================= AK-74 ATTACHMENT AK-74 ATTACHMENT
+		{
+			"id": 41,
+			"filename": "gfx/items/ak74_wm.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0,
+					"offsetpitch": 110,
+					"offsetyaw": 90,
+					"offsetroll": 90,
+					"scale": 0.55,
+					"variety": 0
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0,
+					"offsetpitch": 110,
+					"offsetyaw": 90,
+					"offsetroll": 90,
+					"scale": 0.55,
+					"variety": 0
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0,
+					"offsetpitch": 110,
+					"offsetyaw": 90,
+					"offsetroll": 90,
+					"scale": 0.55,
+					"variety": 0
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0,
+					"offsetpitch": 110,
+					"offsetyaw": 90,
+					"offsetroll": 90,
+					"scale": 0.55,
+					"variety": 0
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0,
+					"offsetpitch": 110,
+					"offsetyaw": 90,
+					"offsetroll": 90,
+					"scale": 0.55,
+					"variety": 0
+				}
+			]
+		},
+		//============================================================================================================================= AEK-971 ATTACHMENT AEK-971 ATTACHMENT
+		//============================================================================================================================= AEK-971 ATTACHMENT AEK-971 ATTACHMENT
+		{
+			"id": 81,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/AEK-971/AEK-971_Worldmodel.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 1,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -0.7,
+					"offsety": -4.0,
+					"offsetz": -6.5,
+					"scale": 3.5,
+					"variety": 0,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": -75
+				},
+				{
+					"id": 2,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -0,
+					"offsety": -3.7,
+					"offsetz": -4,
+					"scale": 3.5,
+					"variety": 0,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": -75
+				},
+				{
+					"id": 9,
+					"bone": "Hand.R",
+					"offsetx": 0.07,
+					"offsety": 1,
+					"offsetz": 0.45,
+					"scale": 0.45,
+					"variety": 0,
+					"offsetpitch": 85,
+					"offsetyaw": -180,
+					"offsetroll": -80
+				},
+				{
+					"id": 10,
+					"bone": "hand_R",
+					"offsetx": 0.35,
+					"offsety": 1.255,
+					"offsetz": -0.11,
+					"scale": 0.45,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": 90
+				},
+				{
+					"id": 11,
+					"bone": "RArmHand",
+					"offsetx": -0.55,
+					"offsety": 1.35,
+					"offsetz": 0.17,
+					"scale": 0.5,
+					"offsetpitch": 85,
+					"offsetyaw": 180,
+					"offsetroll": 0
+				},
+				{
+					"id": 16,
+					"bone": "Anim_Attachment_RH",
+					"offsetx": -0.15,
+					"offsety": 4.64,
+					"offsetz": 6.82,
+					"scale": 4,
+					"variety": 0,
+					"offsetpitch": 2.95,
+					"offsetyaw": -170,
+					"offsetroll": 105
+				},
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.35,
+					"offsety": 1.255,
+					"offsetz": -0.11,
+					"scale": 0.45,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": 90
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.35,
+					"offsety": 1.255,
+					"offsetz": -0.11,
+					"scale": 0.45,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": 90
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.35,
+					"offsety": 1.255,
+					"offsetz": -0.11,
+					"scale": 0.45,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": 90
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.35,
+					"offsety": 1.255,
+					"offsetz": -0.11,
+					"scale": 0.45,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": 90
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.35,
+					"offsety": 1.255,
+					"offsetz": -0.11,
+					"scale": 0.45,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": 90
+				}
+			]
+		},
+		//============================================================================================================================= AK-12 ATTACHMENT AK-12 ATTACHMENT
+		//============================================================================================================================= AK-12 ATTACHMENT AK-12 ATTACHMENT
+		{
+			"id": 82,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/AK-12/AK-12_Worldmodel.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 1,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -2.15,
+					"offsety": -0.9,
+					"offsetz": -5.85,
+					"scale": 4.5,
+					"variety": 0,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 100
+				},
+				{
+					"id": 2,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -1.8,
+					"offsety": -2.6,
+					"offsetz": -4.35,
+					"scale": 4.5,
+					"variety": 0,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 100
+				},
+				{
+					"id": 9,
+					"bone": "Hand.R",
+					"offsetx": 0.177,
+					"offsety": 0.8,
+					"offsetz": 0.35,
+					"scale": 0.5,
+					"variety": 0,
+					"offsetpitch": 83,
+					"offsetyaw": 180,
+					"offsetroll": 90
+				},
+				{
+					"id": 10,
+					"bone": "hand_R",
+					"offsetx": 0.065,
+					"offsety": 1,
+					"offsetz": -0.135,
+					"scale": 0.5,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -90
+				},
+				{
+					"id": 11,
+					"bone": "RArmHand",
+					"offsetx": -0.5,
+					"offsety": 1.05,
+					"offsetz": 0.22,
+					"scale": 0.55,
+					"offsetpitch": 80,
+					"offsetyaw": -120,
+					"offsetroll": 120
+				},
+				{
+					"id": 16,
+					"bone": "Anim_Attachment_RH",
+					"offsetx": -0.21,
+					"offsety": 3.65,
+					"offsetz": 7,
+					"scale": 4.6,
+					"variety": 0,
+					"offsetpitch": 6.9,
+					"offsetyaw": -175,
+					"offsetroll": -78
+				},
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.065,
+					"offsety": 1,
+					"offsetz": -0.135,
+					"scale": 0.5,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -90
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.065,
+					"offsety": 1,
+					"offsetz": -0.135,
+					"scale": 0.5,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -90
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.065,
+					"offsety": 1,
+					"offsetz": -0.135,
+					"scale": 0.5,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -90
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.065,
+					"offsety": 1,
+					"offsetz": -0.135,
+					"scale": 0.5,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -90
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.065,
+					"offsety": 1,
+					"offsetz": -0.135,
+					"scale": 0.5,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -90
+				}
+			]
+		},
+		//============================================================================================================================= AK-47 ATTACHMENT NEW AK-47 ATTACHMENT
+		//============================================================================================================================= AK-47 ATTACHMENT NEW AK-47 ATTACHMENT
+		{
+			"id": 83,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/AK-47/AK-47_Worldmodel.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 1,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -1,
+					"offsety": -2.5,
+					"offsetz": -8.3,
+					"scale": 4,
+					"variety": 0,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 105
+				},
+				{
+					"id": 2,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -1.35,
+					"offsety": -2.8,
+					"offsetz": -6.8,
+					"scale": 4,
+					"variety": 0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 105
+				},
+				{
+					"id": 9,
+					"bone": "Hand.R",
+					"offsetx": 0.1,
+					"offsety": 1.4,
+					"offsetz": 0.4,
+					"scale": 0.53,
+					"variety": 0,
+					"offsetpitch": 85,
+					"offsetyaw": -172,
+					"offsetroll": 90
+				},
+				{
+					"id": 10,
+					"bone": "hand_R",
+					"offsetx": 0.08,
+					"offsety": 1.46,
+					"offsetz": -0.014,
+					"scale": 0.50,
+					"offsetpitch": 72,
+					"offsetyaw": -98,
+					"offsetroll": -80
+				},
+				{
+					"id": 11,
+					"bone": "RArmHand",
+					"offsetx": -0.43,
+					"offsety": 1.55,
+					"offsetz": 0.25,
+					"scale": 0.55,
+					"offsetpitch": 85,
+					"offsetyaw": 180,
+					"offsetroll": -175
+				},
+				{
+					"id": 16,
+					"bone": "Anim_Attachment_RH",
+					"offsetx": -0.2,
+					"offsety": 4.46,
+					"offsetz": 8.7,
+					"scale": 4.3,
+					"variety": 0,
+					"offsetpitch": 9.5,
+					"offsetyaw": -170,
+					"offsetroll": -80
+				},
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.08,
+					"offsety": 1.46,
+					"offsetz": -0.014,
+					"scale": 0.50,
+					"offsetpitch": 72,
+					"offsetyaw": -98,
+					"offsetroll": -80
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.08,
+					"offsety": 1.46,
+					"offsetz": -0.014,
+					"scale": 0.50,
+					"offsetpitch": 72,
+					"offsetyaw": -98,
+					"offsetroll": -80
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.08,
+					"offsety": 1.46,
+					"offsetz": -0.014,
+					"scale": 0.50,
+					"offsetpitch": 72,
+					"offsetyaw": -98,
+					"offsetroll": -80
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.08,
+					"offsety": 1.46,
+					"offsetz": -0.014,
+					"scale": 0.50,
+					"offsetpitch": 72,
+					"offsetyaw": -98,
+					"offsetroll": -80
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.08,
+					"offsety": 1.46,
+					"offsetz": -0.014,
+					"scale": 0.50,
+					"offsetpitch": 72,
+					"offsetyaw": -98,
+					"offsetroll": -80
+				}
+			]
+		},
+		//============================================================================================================================= AKS-74U ATTACHMENT AKS-74U ATTACHMENT
+		//============================================================================================================================= AKS-74U ATTACHMENT AKS-74U ATTACHMENT
+		{
+			"id": 84,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/AKS-74U/AKS-74U_Worldmodel.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 1,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -2.0,
+					"offsety": -3.5,
+					"offsetz": -3.92,
+					"scale": 4.3,
+					"variety": 0,
+					"offsetpitch": -4,
+					"offsetyaw": -10,
+					"offsetroll": 110
+				},
+				{
+					"id": 2,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -1.6,
+					"offsety": -2.9,
+					"offsetz": -2.65,
+					"scale": 4.3,
+					"variety": 0,
+					"offsetpitch": 0.1,
+					"offsetyaw": 1.75,
+					"offsetroll": 110
+				},
+				{
+					"id": 9,
+					"bone": "Hand.R",
+					"offsetx": 0.1,
+					"offsety": 0.85,
+					"offsetz": 0.65,
+					"scale": 0.55,
+					"variety": 0,
+					"offsetpitch": 75,
+					"offsetyaw": -160,
+					"offsetroll": 90
+				},
+				{
+					"id": 10,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				},
+				{
+					"id": 11,
+					"bone": "RArmHand",
+					"offsetx": -0.5,
+					"offsety": 1.05,
+					"offsetz": 0.22,
+					"scale": 0.55,
+					"offsetpitch": 80,
+					"offsetyaw": -120,
+					"offsetroll": 120
+				},
+				{
+					"id": 16,
+					"bone": "Anim_Attachment_RH",
+					"offsetx": -0.75,
+					"offsety": 4.42,
+					"offsetz": 6.45,
+					"scale": 4.3,
+					"variety": 0,
+					"offsetpitch": 8.8,
+					"offsetyaw": -170,
+					"offsetroll": -75
+				},
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				}
+			]
+		},
+		//============================================================================================================================= M4A1-Colt ATTACHMENT M4A1-Colt ATTACHMENT
+		//============================================================================================================================= M4A1-Colt ATTACHMENT M4A1-Colt ATTACHMENT
+		{
+			"id": 85,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/M4A1-Colt/M4A1-Colt_Worldmodel.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 1,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -2,
+					"offsety": -2.6,
+					"offsetz": -4.4,
+					"scale": 4,
+					"variety": 0,
+					"offsetpitch": -3.8,
+					"offsetyaw": -3,
+					"offsetroll": 110
+				},
+				{
+					"id": 2,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -1.4,
+					"offsety": -2.6,
+					"offsetz": -3.83,
+					"scale": 4,
+					"variety": 0,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 110
+				},
+				{
+					"id": 9,
+					"bone": "Hand.R",
+					"offsetx": 0.1,
+					"offsety": 0.8,
+					"offsetz": 0.6,
+					"scale": 0.5,
+					"variety": 0,
+					"offsetpitch": 70,
+					"offsetyaw": 180,
+					"offsetroll": 100
+				},
+				{
+					"id": 10,
+					"bone": "hand_R",
+					"offsetx": 0.208,
+					"offsety": 0.95,
+					"offsetz": -0.08,
+					"scale": 0.5,
+					"offsetpitch": 72,
+					"offsetyaw": -92,
+					"offsetroll": -77
+				},
+				{
+					"id": 11,
+					"bone": "RArmHand",
+					"offsetx": -0.6,
+					"offsety": 1.12,
+					"offsetz": 0.16,
+					"scale": 0.55,
+					"offsetpitch": 80,
+					"offsetyaw": -122,
+					"offsetroll": 130
+				},
+				{
+					"id": 16,
+					"bone": "Anim_Attachment_RH",
+					"offsetx": 0.4,
+					"offsety": 4.55,
+					"offsetz": 6.4,
+					"scale": 4.5,
+					"variety": 0,
+					"offsetpitch": 6,
+					"offsetyaw": -173,
+					"offsetroll": -70
+				},
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.208,
+					"offsety": 0.95,
+					"offsetz": -0.08,
+					"scale": 0.5,
+					"offsetpitch": 72,
+					"offsetyaw": -92,
+					"offsetroll": -77
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.208,
+					"offsety": 0.95,
+					"offsetz": -0.08,
+					"scale": 0.5,
+					"offsetpitch": 72,
+					"offsetyaw": -92,
+					"offsetroll": -77
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.208,
+					"offsety": 0.95,
+					"offsetz": -0.08,
+					"scale": 0.5,
+					"offsetpitch": 72,
+					"offsetyaw": -92,
+					"offsetroll": -77
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.208,
+					"offsety": 0.95,
+					"offsetz": -0.08,
+					"scale": 0.5,
+					"offsetpitch": 72,
+					"offsetyaw": -92,
+					"offsetroll": -77
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.208,
+					"offsety": 0.95,
+					"offsetz": -0.08,
+					"scale": 0.5,
+					"offsetpitch": 72,
+					"offsetyaw": -92,
+					"offsetroll": -77
+				}
+			]
+		},
+		//============================================================================================================================= M4A1-S ATTACHMENT M4A1-S ATTACHMENT
+		//============================================================================================================================= M4A1-S ATTACHMENT M4A1-S ATTACHMENT
+		{
+			"id": 86,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/M4A1-S/M4A1-S_Worldmodel.b3d",
+			"presets": [
+				{
+					"id": 1,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -2.0,
+					"offsety": -3.5,
+					"offsetz": -3.92,
+					"scale": 4.3,
+					"variety": 0,
+					"offsetpitch": -4,
+					"offsetyaw": -10,
+					"offsetroll": 110
+				},
+				{
+					"id": 2,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -1.6,
+					"offsety": -2.9,
+					"offsetz": -2.65,
+					"scale": 4.3,
+					"variety": 0,
+					"offsetpitch": 0.1,
+					"offsetyaw": 1.75,
+					"offsetroll": 110
+				},
+				{
+					"id": 9,
+					"bone": "Hand.R",
+					"offsetx": 0.1,
+					"offsety": 0.85,
+					"offsetz": 0.65,
+					"scale": 0.55,
+					"variety": 0,
+					"offsetpitch": 75,
+					"offsetyaw": -160,
+					"offsetroll": 90
+				},
+				{
+					"id": 10,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				},
+				{
+					"id": 11,
+					"bone": "RArmHand",
+					"offsetx": -0.5,
+					"offsety": 1.05,
+					"offsetz": 0.22,
+					"scale": 0.55,
+					"offsetpitch": 80,
+					"offsetyaw": -120,
+					"offsetroll": 120
+				},
+				{
+					"id": 16,
+					"bone": "Anim_Attachment_RH",
+					"offsetx": -0.75,
+					"offsety": 4.42,
+					"offsetz": 6.45,
+					"scale": 4.3,
+					"variety": 0,
+					"offsetpitch": 8.8,
+					"offsetyaw": -170,
+					"offsetroll": -75
+				},
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				}
+			]
+		},
+		//============================================================================================================================= M249 ATTACHMENT M249 ATTACHMENT
+		//============================================================================================================================= M249 ATTACHMENT M249 ATTACHMENT
+		{
+			"id": 87,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/M249/M249_Worldmodel.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 1,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -3.25,
+					"offsety": -1.55,
+					"offsetz": -2,
+					"offsetpitch": -2,
+					"offsetyaw": -16,
+					"offsetroll": -83,
+					"scale": 4.3,
+					"variety": 0
+				},
+				{
+					"id": 2,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -2.35,
+					"offsety": -1.41,
+					"offsetz": -3.56,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": -80,
+					"scale": 4.4,
+					"variety": 0
+				},
+				{
+					"id": 9,
+					"bone": "Hand.R",
+					"offsetx": 0.2,
+					"offsety": 0.7,
+					"offsetz": 0.375,
+					"offsetpitch": 80,
+					"offsetyaw": -170,
+					"offsetroll": -90,
+					"scale": 0.50,
+					"variety": 0
+				},
+				{
+					"id": 10,
+					"bone": "hand_R",
+					"offsetx": 0.4,
+					"offsety": 0.85,
+					"offsetz": -0.27,
+					"offsetpitch": 70,
+					"offsetyaw": -73,
+					"offsetroll": 73,
+					"scale": 0.50,
+					"variety": 0
+				},
+				{
+					"id": 11,
+					"bone": "RArmHand",
+					"offsetx": -0.51,
+					"offsety": 0.6,
+					"offsetz": 0.274,
+					"offsetpitch": 80,
+					"offsetyaw": -111,
+					"offsetroll": -70,
+					"scale": 0.55,
+					"variety": 0
+				},
+				{
+					"id": 16,
+					"bone": "Anim_Attachment_RH",
+					"offsetx": 0.255,
+					"offsety": 4.125,
+					"offsetz": 2.5,
+					"offsetpitch": 1.15,
+					"offsetyaw": -170,
+					"offsetroll": 100,
+					"scale": 4.5,
+					"variety": 0
+				},
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.4,
+					"offsety": 0.85,
+					"offsetz": -0.27,
+					"offsetpitch": 70,
+					"offsetyaw": -73,
+					"offsetroll": 73,
+					"scale": 0.50,
+					"variety": 0
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.4,
+					"offsety": 0.85,
+					"offsetz": -0.27,
+					"offsetpitch": 70,
+					"offsetyaw": -73,
+					"offsetroll": 73,
+					"scale": 0.50,
+					"variety": 0
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.4,
+					"offsety": 0.85,
+					"offsetz": -0.27,
+					"offsetpitch": 70,
+					"offsetyaw": -73,
+					"offsetroll": 73,
+					"scale": 0.50,
+					"variety": 0
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.4,
+					"offsety": 0.85,
+					"offsetz": -0.27,
+					"offsetpitch": 70,
+					"offsetyaw": -73,
+					"offsetroll": 73,
+					"scale": 0.50,
+					"variety": 0
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.4,
+					"offsety": 0.85,
+					"offsetz": -0.27,
+					"offsetpitch": 70,
+					"offsetyaw": -73,
+					"offsetroll": 73,
+					"scale": 0.50,
+					"variety": 0
+				}
+			]
+		},
+		//============================================================================================================================= M1014 ATTACHMENT M1014 ATTACHMENT
+		//============================================================================================================================= M1014 ATTACHMENT M1014 ATTACHMENT
+		{
+			"id": 88,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/M1014/M1014_Worldmodel.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 1,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -2.0,
+					"offsety": -3.5,
+					"offsetz": -3.92,
+					"scale": 4.3,
+					"variety": 0,
+					"offsetpitch": -4,
+					"offsetyaw": -10,
+					"offsetroll": 110
+				},
+				{
+					"id": 2,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -1.6,
+					"offsety": -2.9,
+					"offsetz": -2.65,
+					"scale": 4.3,
+					"variety": 0,
+					"offsetpitch": 0.1,
+					"offsetyaw": 1.75,
+					"offsetroll": 110
+				},
+				{
+					"id": 9,
+					"bone": "Hand.R",
+					"offsetx": 0.1,
+					"offsety": 0.85,
+					"offsetz": 0.65,
+					"scale": 0.55,
+					"variety": 0,
+					"offsetpitch": 75,
+					"offsetyaw": -160,
+					"offsetroll": 90
+				},
+				{
+					"id": 10,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				},
+				{
+					"id": 11,
+					"bone": "RArmHand",
+					"offsetx": -0.5,
+					"offsety": 1.05,
+					"offsetz": 0.22,
+					"scale": 0.55,
+					"offsetpitch": 80,
+					"offsetyaw": -120,
+					"offsetroll": 120
+				},
+				{
+					"id": 16,
+					"bone": "Anim_Attachment_RH",
+					"offsetx": -0.75,
+					"offsety": 4.42,
+					"offsetz": 6.45,
+					"scale": 4.3,
+					"variety": 0,
+					"offsetpitch": 8.8,
+					"offsetyaw": -170,
+					"offsetroll": -75
+				},
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.95,
+					"offsetz": -0.15,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -80
+				}
+			]
+		},
+		//============================================================================================================================= PKP ATTACHMENT PKP ATTACHMENT
+		//============================================================================================================================= PKP ATTACHMENT PKP ATTACHMENT
+		{
+			"id": 89,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/PKP/PKP_Worldmodel.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 1,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -2.33,
+					"offsety": -3.55,
+					"offsetz": -7.20,
+					"offsetpitch": 0.2,
+					"offsetyaw": 0,
+					"offsetroll": 100,
+					"scale": 4.25,
+					"variety": 0
+				},
+				{
+					"id": 2,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -2.15,
+					"offsety": -3.15,
+					"offsetz": -6.2,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 105,
+					"scale": 4.25,
+					"variety": 0
+				},
+				{
+					"id": 9,
+					"bone": "Hand.R",
+					"offsetx": -0.13,
+					"offsety": 1.25,
+					"offsetz": 0.87,
+					"offsetpitch": 77,
+					"offsetyaw": 180,
+					"offsetroll": 90,
+					"scale": 0.52,
+					"variety": 0
+				},
+				{
+					"id": 10,
+					"bone": "hand_R",
+					"offsetx": 0.28,
+					"offsety": 1.67,
+					"offsetz": -0.218,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -90,
+					"scale": 0.52,
+					"variety": 0
+				},
+				{
+					"id": 11,
+					"bone": "RArmHand",
+					"offsetx": -0.8,
+					"offsety": 1.57,
+					"offsetz": 0.35,
+					"offsetpitch": 85,
+					"offsetyaw": -175,
+					"offsetroll": 175,
+					"scale": 0.55,
+					"variety": 0
+				},
+				{
+					"id": 16,
+					"bone": "Anim_Attachment_RH",
+					"offsetx": -0.65,
+					"offsety": 6.814,
+					"offsetz": 10,
+					"offsetpitch": 1.8,
+					"offsetyaw": -168,
+					"offsetroll": -77,
+					"scale": 4.55,
+					"variety": 0
+				},
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.28,
+					"offsety": 1.67,
+					"offsetz": -0.218,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -90,
+					"scale": 0.52,
+					"variety": 0
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.28,
+					"offsety": 1.67,
+					"offsetz": -0.218,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -90,
+					"scale": 0.52,
+					"variety": 0
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.28,
+					"offsety": 1.67,
+					"offsetz": -0.218,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -90,
+					"scale": 0.52,
+					"variety": 0
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.28,
+					"offsety": 1.67,
+					"offsetz": -0.218,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -90,
+					"scale": 0.52,
+					"variety": 0
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.28,
+					"offsety": 1.67,
+					"offsetz": -0.218,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -90,
+					"scale": 0.52,
+					"variety": 0
+				}
+			]
+		},
+		//============================================================================================================================= SCAR-L ATTACHMENT SCAR-L ATTACHMENT
+		//============================================================================================================================= SCAR-L ATTACHMENT SCAR-L ATTACHMENT
+		{
+			"id": 90,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/SCAR-L/SCAR-L_Worldmodel.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 1,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -1.7,
+					"offsety": -2.15,
+					"offsetz": -2.7,
+					"scale": 4.2,
+					"variety": 0,
+					"offsetpitch": -1.72,
+					"offsetyaw": -8.81,
+					"offsetroll": -80
+				},
+				{
+					"id": 2,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -1,
+					"offsety": -1.41,
+					"offsetz": -3.3,
+					"scale": 4.3,
+					"variety": 0,
+					"offsetpitch": 3,
+					"offsetyaw": 0,
+					"offsetroll": -80
+				},
+				{
+					"id": 9,
+					"bone": "Hand.R",
+					"offsetx": 0.15,
+					"offsety": 0.7,
+					"offsetz": 0.3,
+					"scale": 0.55,
+					"variety": 0,
+					"offsetpitch": 90,
+					"offsetyaw": 180,
+					"offsetroll": -90
+				},
+				{
+					"id": 10,
+					"bone": "hand_R",
+					"offsetx": 0.18,
+					"offsety": 0.62,
+					"offsetz": -0.2,
+					"scale": 0.53,
+					"offsetpitch": 70,
+					"offsetyaw": -83,
+					"offsetroll": 85
+				},
+				{
+					"id": 11,
+					"bone": "RArmHand",
+					"offsetx": -0.6,
+					"offsety": 0.8,
+					"offsetz": 0.17,
+					"scale": 0.57,
+					"offsetpitch": 80,
+					"offsetyaw": -160,
+					"offsetroll": -18
+				},
+				{
+					"id": 16,
+					"bone": "Anim_Attachment_RH",
+					"offsetx": 0.568,
+					"offsety": 4.95,
+					"offsetz": 3.31,
+					"scale": 5,
+					"variety": 0,
+					"offsetpitch": 5,
+					"offsetyaw": -170,
+					"offsetroll": 100
+				},
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.18,
+					"offsety": 0.62,
+					"offsetz": -0.2,
+					"scale": 0.53,
+					"offsetpitch": 70,
+					"offsetyaw": -83,
+					"offsetroll": 85
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.18,
+					"offsety": 0.62,
+					"offsetz": -0.2,
+					"scale": 0.53,
+					"offsetpitch": 70,
+					"offsetyaw": -83,
+					"offsetroll": 85
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.18,
+					"offsety": 0.62,
+					"offsetz": -0.2,
+					"scale": 0.53,
+					"offsetpitch": 70,
+					"offsetyaw": -83,
+					"offsetroll": 85
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.18,
+					"offsety": 0.62,
+					"offsetz": -0.2,
+					"scale": 0.53,
+					"offsetpitch": 70,
+					"offsetyaw": -83,
+					"offsetroll": 85
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.18,
+					"offsety": 0.62,
+					"offsetz": -0.2,
+					"scale": 0.53,
+					"offsetpitch": 70,
+					"offsetyaw": -83,
+					"offsetroll": 85
+				}
+			]
+		},
+		//============================================================================================================================= SR-2M ATTACHMENT SR-2M ATTACHMENT
+		//============================================================================================================================= SR-2M ATTACHMENT SR-2M ATTACHMENT
+		{
+			"id": 91,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/SR-2M/SR-2M_Worldmodel.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 1,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -1.35,
+					"offsety": -1.43,
+					"offsetz": -1.95,
+					"scale": 4,
+					"variety": 0,
+					"offsetpitch": -2.37,
+					"offsetyaw": -8.73,
+					"offsetroll": 105
+				},
+				{
+					"id": 2,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -0.5,
+					"offsety": -2.2,
+					"offsetz": -0.9,
+					"scale": 4,
+					"variety": 0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0,
+					"offsetroll": 105
+				},
+				{
+					"id": 9,
+					"bone": "Hand.R",
+					"offsetx": 0.0,
+					"offsety": 0.5,
+					"offsetz": 0.275,
+					"scale": 0.5,
+					"variety": 0,
+					"offsetpitch": 80,
+					"offsetyaw": -175,
+					"offsetroll": 90
+				},
+				{
+					"id": 10,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.65,
+					"offsetz": -0.13,
+					"scale": 0.5,
+					"offsetpitch": 67,
+					"offsetyaw": -77,
+					"offsetroll": -100
+				},
+				{
+					"id": 11,
+					"bone": "RArmHand",
+					"offsetx": -0.5,
+					"offsety": 1.05,
+					"offsetz": 0.22,
+					"scale": 0.55,
+					"offsetpitch": 80,
+					"offsetyaw": -120,
+					"offsetroll": 120
+				},
+				{
+					"id": 16,
+					"bone": "Anim_Attachment_RH",
+					"offsetx": 0.95,
+					"offsety": 2.95,
+					"offsetz": 2.6,
+					"scale": 4.8,
+					"variety": 0,
+					"offsetpitch": 2.55,
+					"offsetyaw": -172,
+					"offsetroll": -80
+				},
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.65,
+					"offsetz": -0.13,
+					"scale": 0.5,
+					"offsetpitch": 67,
+					"offsetyaw": -77,
+					"offsetroll": -100
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.65,
+					"offsetz": -0.13,
+					"scale": 0.5,
+					"offsetpitch": 67,
+					"offsetyaw": -77,
+					"offsetroll": -100
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.65,
+					"offsetz": -0.13,
+					"scale": 0.5,
+					"offsetpitch": 67,
+					"offsetyaw": -77,
+					"offsetroll": -100
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.65,
+					"offsetz": -0.13,
+					"scale": 0.5,
+					"offsetpitch": 67,
+					"offsetyaw": -77,
+					"offsetroll": -100
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.22,
+					"offsety": 0.65,
+					"offsetz": -0.13,
+					"scale": 0.5,
+					"offsetpitch": 67,
+					"offsetyaw": -77,
+					"offsetroll": -100
+				}
+			]
+		},
+		//============================================================================================================================= USP ATTACHMENT USP ATTACHMENT
+		//============================================================================================================================= USP ATTACHMENT USP ATTACHMENT
+		{
+			"id": 92,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/USP/USP_Worldmodel.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 1,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -1.1,
+					"offsety": -0.9	,
+					"offsetz": -2.85,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 105,
+					"scale": 4.2,
+					"variety": 0
+				},
+				{
+					"id": 2,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -0.54,
+					"offsety": -1.08,
+					"offsetz": -2.68,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 105,
+					"scale": 4.2,
+					"variety": 0
+				},
+				{
+					"id": 9,
+					"bone": "Hand.R",
+					"offsetx": 0,
+					"offsety": 0.75,
+					"offsetz": 0.25,
+					"offsetpitch": 72,
+					"offsetyaw": 180,
+					"offsetroll": 90,
+					"scale": 0.5,
+					"variety": 0
+				},
+				{
+					"id": 10,
+					"bone": "hand_R",
+					"offsetx": -0.016,
+					"offsety": 1,
+					"offsetz": 0,
+					"offsetpitch": 70,
+					"offsetyaw": -105,
+					"offsetroll": -75,
+					"scale": 0.5,
+					"variety": 0
+				},
+				{
+					"id": 11,
+					"bone": "RArmHand",
+					"offsetx": -0.1,
+					"offsety": 0.85,
+					"offsetz": 0.1,
+					"offsetpitch": 90,
+					"offsetyaw": 0,
+					"offsetroll": 0,
+					"scale": 0.6,
+					"variety": 0
+				},
+				{
+					"id": 16,
+					"bone": "Anim_Attachment_RH",
+					"offsetx": 1.55,
+					"offsety": 1,
+					"offsetz": 3.65,
+					"offsetpitch": 0,
+					"offsetyaw": 180,
+					"offsetroll": -75,
+					"scale": 4.2,
+					"variety": 0
+				},
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": -0.016,
+					"offsety": 1,
+					"offsetz": 0,
+					"offsetpitch": 70,
+					"offsetyaw": -105,
+					"offsetroll": -75,
+					"scale": 0.5,
+					"variety": 0
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": -0.016,
+					"offsety": 1,
+					"offsetz": 0,
+					"offsetpitch": 70,
+					"offsetyaw": -105,
+					"offsetroll": -75,
+					"scale": 0.5,
+					"variety": 0
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": -0.016,
+					"offsety": 1,
+					"offsetz": 0,
+					"offsetpitch": 70,
+					"offsetyaw": -105,
+					"offsetroll": -75,
+					"scale": 0.5,
+					"variety": 0
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": -0.016,
+					"offsety": 1,
+					"offsetz": 0,
+					"offsetpitch": 70,
+					"offsetyaw": -105,
+					"offsetroll": -75,
+					"scale": 0.5,
+					"variety": 0
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": -0.016,
+					"offsety": 1,
+					"offsetz": 0,
+					"offsetpitch": 70,
+					"offsetyaw": -105,
+					"offsetroll": -75,
+					"scale": 0.5,
+					"variety": 0
+				}
+			]
+		},
+		//============================================================================================================================= USP-S ATTACHMENT USP-S ATTACHMENT
+		//============================================================================================================================= USP-S ATTACHMENT USP-S ATTACHMENT
+		{
+			"id": 93,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/USP-S/USP-S_Worldmodel.b3d",
+			"presets": [
+				{
+					"id": 1,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -1.1,
+					"offsety": -0.9	,
+					"offsetz": -2.85,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 105,
+					"scale": 4.2,
+					"variety": 0
+				},
+				{
+					"id": 2,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -0.54,
+					"offsety": -1.08,
+					"offsetz": -2.68,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 105,
+					"scale": 4.2,
+					"variety": 0
+				},
+				{
+					"id": 9,
+					"bone": "Hand.R",
+					"offsetx": 0,
+					"offsety": 0.75,
+					"offsetz": 0.25,
+					"offsetpitch": 72,
+					"offsetyaw": 180,
+					"offsetroll": 90,
+					"scale": 0.5,
+					"variety": 0
+				},
+				{
+					"id": 10,
+					"bone": "hand_R",
+					"offsetx": -0.016,
+					"offsety": 1,
+					"offsetz": 0,
+					"offsetpitch": 70,
+					"offsetyaw": -105,
+					"offsetroll": -75,
+					"scale": 0.5,
+					"variety": 0
+				},
+				{
+					"id": 11,
+					"bone": "RArmHand",
+					"offsetx": -0.1,
+					"offsety": 0.85,
+					"offsetz": 0.1,
+					"offsetpitch": 90,
+					"offsetyaw": 0,
+					"offsetroll": 0,
+					"scale": 0.6,
+					"variety": 0
+				},
+				{
+					"id": 16,
+					"bone": "Anim_Attachment_RH",
+					"offsetx": 1.55,
+					"offsety": 1,
+					"offsetz": 3.65,
+					"offsetpitch": 0,
+					"offsetyaw": 180,
+					"offsetroll": -75,
+					"scale": 4.2,
+					"variety": 0
+				},
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": -0.016,
+					"offsety": 1,
+					"offsetz": 0,
+					"offsetpitch": 70,
+					"offsetyaw": -105,
+					"offsetroll": -75,
+					"scale": 0.5,
+					"variety": 0
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": -0.016,
+					"offsety": 1,
+					"offsetz": 0,
+					"offsetpitch": 70,
+					"offsetyaw": -105,
+					"offsetroll": -75,
+					"scale": 0.5,
+					"variety": 0
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": -0.016,
+					"offsety": 1,
+					"offsetz": 0,
+					"offsetpitch": 70,
+					"offsetyaw": -105,
+					"offsetroll": -75,
+					"scale": 0.5,
+					"variety": 0
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": -0.016,
+					"offsety": 1,
+					"offsetz": 0,
+					"offsetpitch": 70,
+					"offsetyaw": -105,
+					"offsetroll": -75,
+					"scale": 0.5,
+					"variety": 0
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": -0.016,
+					"offsety": 1,
+					"offsetz": 0,
+					"offsetpitch": 70,
+					"offsetyaw": -105,
+					"offsetroll": -75,
+					"scale": 0.5,
+					"variety": 0
+				}
+			]
+		},
+		//============================================================================================================================= VAL ATTACHMENT VAL ATTACHMENT
+		//============================================================================================================================= VAL ATTACHMENT VAL ATTACHMENT
+		{
+			"id": 94,
+			"filename": "addons/MEDIUMRP/GFX/WEAPONS/VAL/VAL_Worldmodel.b3d",
+			"presets": [
+				{
+					"id": 1,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -2.0,
+					"offsety": -3.5,
+					"offsetz": -3.92,
+					"scale": 4.3,
+					"variety": 0,
+					"offsetpitch": -4,
+					"offsetyaw": -10,
+					"offsetroll": 110
+				},
+				{
+					"id": 2,
+					"bone": "Bip01_L_Finger0",
+					"offsetx": -1.6,
+					"offsety": -2.9,
+					"offsetz": -2.65,
+					"scale": 4.3,
+					"variety": 0,
+					"offsetpitch": 0.1,
+					"offsetyaw": 1.75,
+					"offsetroll": 110
+				},
+				{
+					"id": 9,
+					"bone": "Hand.R",
+					"offsetx": 0.1,
+					"offsety": 0.85,
+					"offsetz": 0.65,
+					"scale": 0.55,
+					"variety": 0,
+					"offsetpitch": 75,
+					"offsetyaw": -160,
+					"offsetroll": 90
+				},
+				{
+					"id": 10,
+					"bone": "hand_R",
+					"offsetx": 0.2,
+					"offsety": 1.3,
+					"offsetz": -0.18,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -77.5
+				},
+				{
+					"id": 11,
+					"bone": "RArmHand",
+					"offsetx": -0.5,
+					"offsety": 1.05,
+					"offsetz": 0.22,
+					"scale": 0.55,
+					"offsetpitch": 80,
+					"offsetyaw": -120,
+					"offsetroll": 120
+				},
+				{
+					"id": 16,
+					"bone": "Anim_Attachment_RH",
+					"offsetx": -0.75,
+					"offsety": 4.42,
+					"offsetz": 6.45,
+					"scale": 4.3,
+					"variety": 0,
+					"offsetpitch": 8.8,
+					"offsetyaw": -170,
+					"offsetroll": -75
+				},
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.2,
+					"offsety": 1.3,
+					"offsetz": -0.18,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -77.5
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.2,
+					"offsety": 1.3,
+					"offsetz": -0.18,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -77.5
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.2,
+					"offsety": 1.3,
+					"offsetz": -0.18,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -77.5
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.2,
+					"offsety": 1.3,
+					"offsetz": -0.18,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -77.5
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.2,
+					"offsety": 1.3,
+					"offsetz": -0.18,
+					"scale": 0.55,
+					"offsetpitch": 70,
+					"offsetyaw": -90,
+					"offsetroll": -77.5
+				}
+			]
+		},
+		//============================================================================================================================= ETA 10 NVG ATTACHMENT ETA 10 NVG ATTACHMENT
+		//============================================================================================================================= ETA 10 NVG ATTACHMENT ETA 10 NVG ATTACHMENT
+		{
+			"id": 8,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/ETA10_NVG.b3d",
+			"texture": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/ETA10_NVG_Green.png",
+			"rigged": 0,
+			"variety": 1,
+			"sounds": [],
+			"presets": [
+				{
+					"id": 20,
+					"bone": "head",
+					"offsetx": -0.61,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0,
+					"offsetroll": 0.0,
+					"scale": 1,
+					"variety": 1
+				}
+			]
+		},
+		{
+			"id": 9,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/ETA10_NVG.b3d",
+			"texture": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/ETA10_NVG_Red.png",
+			"rigged": 0,
+			"variety": 1,
+			"sounds": [],
+			"presets": [
+				{
+					"id": 20,
+					"bone": "head",
+					"offsetx": -0.61,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0,
+					"offsetroll": 0.0,
+					"scale": 1,
+					"variety": 1
+				}
+			]
+		},
+		{
+			"id": 10,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/ETA10_NVG.b3d",
+			"texture": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/ETA10_NVG_Blue.png",
+			"rigged": 0,
+			"variety": 1,
+			"sounds": [],
+			"presets": [
+				{
+					"id": 20,
+					"bone": "head",
+					"offsetx": -0.61,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0,
+					"offsetroll": 0.0,
+					"scale": 1,
+					"variety": 1
+				}
+			]
+		},
+		{
+			"id": 11,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/ETA10_NVG.b3d",
+			"texture": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/ETA10_NVG_Scramble.png",
+			"variety": 1,
+			"sounds": [],
+			"presets": [
+				{
+					"id": 20,
+					"bone": "head",
+					"offsetx": -0.61,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0,
+					"offsetroll": 0.0,
+					"scale": 1,
+					"variety": 1
+				}
+			]
+		},
+		//============================================================================================================================= ALPHA 1 NVG ATTACHMENT ALPHA 1 NVG ATTACHMENT
+		//============================================================================================================================= ALPHA 1 NVG ATTACHMENT ALPHA 1 NVG ATTACHMENT
+		{
+			"id": 8,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/MTF_NVG.b3d",
+			"texture": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/MTF_NVG_Green.png",
+			"rigged": 0,
+			"variety": 2,
+			"sounds": [],
+			"presets": [
+				{
+					"id": 18,
+					"bone": "head",
+					"offsetx": 0.155,
+					"offsety": 0.74,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0,
+					"offsetroll": 0.0,
+					"scale": 1,
+					"variety": 2
+				}
+			]
+		},
+		{
+			"id": 9,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/MTF_NVG.b3d",
+			"texture": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/MTF_NVG_Red.png",
+			"rigged": 0,
+			"variety": 2,
+			"sounds": [],
+			"presets": [
+				{
+					"id": 18,
+					"bone": "head",
+					"offsetx": 0.155,
+					"offsety": 0.74,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0,
+					"offsetroll": 0.0,
+					"scale": 1,
+					"variety": 2
+				}
+			]
+		},
+		{
+			"id": 10,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/MTF_NVG.b3d",
+			"texture": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/MTF_NVG_Blue.png",
+			"rigged": 0,
+			"variety": 2,
+			"sounds": [],
+			"presets": [
+				{
+					"id": 18,
+					"bone": "head",
+					"offsetx": 0.155,
+					"offsety": 0.74,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0,
+					"offsetroll": 0.0,
+					"scale": 1,
+					"variety": 2
+				}
+			]
+		},
+		{
+			"id": 11,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/MTF_NVG.b3d",
+			"texture": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/MTF_NVG_Scramble.png",
+			"rigged": 0,
+			"variety": 2,
+			"sounds": [],
+			"presets": [
+				{
+					"id": 18,
+					"bone": "head",
+					"offsetx": 0.155,
+					"offsety": 0.74,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0,
+					"offsetroll": 0.0,
+					"scale": 1,
+					"variety": 2
+				}
+			]
+		},
+		//============================================================================================================================= NU 7 NVG ATTACHMENT NU 7 NVG ATTACHMENT
+		//============================================================================================================================= NU 7 NVG ATTACHMENT NU 7 NVG ATTACHMENT
+		{
+			"id": 8,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/MTF_NVG.b3d",
+			"texture": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/MTF_NVG_Green.png",
+			"rigged": 0,
+			"variety": 3,
+			"sounds": [],
+			"presets": [
+				{
+					"id": 19,
+					"bone": "head",
+					"offsetx": 0.155,
+					"offsety": 0.74,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0,
+					"offsetroll": 0.0,
+					"scale": 1,
+					"variety": 3
+				}
+			]
+		},
+		{
+			"id": 9,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/MTF_NVG.b3d",
+			"texture": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/MTF_NVG_Red.png",
+			"rigged": 0,
+			"variety": 3,
+			"sounds": [],
+			"presets": [
+				{
+					"id": 19,
+					"bone": "head",
+					"offsetx": 0.155,
+					"offsety": 0.74,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0,
+					"offsetroll": 0.0,
+					"scale": 1,
+					"variety": 3
+				}
+			]
+		},
+		{
+			"id": 10,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/MTF_NVG.b3d",
+			"texture": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/MTF_NVG_Blue.png",
+			"rigged": 0,
+			"variety": 3,
+			"sounds": [],
+			"presets": [
+				{
+					"id": 19,
+					"bone": "head",
+					"offsetx": 0.155,
+					"offsety": 0.74,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0,
+					"offsetroll": 0.0,
+					"scale": 1,
+					"variety": 3
+				}
+			]
+		},
+		{
+			"id": 11,
+			"filename": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/MTF_NVG.b3d",
+			"texture": "addons/MEDIUMRP/GFX/CHARACTERS/NVG/MTF_NVG_Scramble.png",
+			"rigged": 0,
+			"variety": 3,
+			"sounds": [],
+			"presets": [
+				{
+					"id": 19,
+					"bone": "head",
+					"offsetx": 0.155,
+					"offsety": 0.74,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0,
+					"offsetroll": 0.0,
+					"scale": 1,
+					"variety": 3
+				}
+			]
+		},
+		{
+			"id": 8,
+			"filename": "gfx/items/wearable/nvg_wearmodel.b3d",
+			"texture": "gfx/items/night_vision_goggles_green.png",
+			"rigged": 0,
+			"variety": 0,
+			"sounds": [],
+			"presets": [
+				{
+					"id": 21,
+					"bone": "head",
+					"offsetx": -0.4,
+					"offsety": 0.4,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.13,
+					"variety": 0
+				},
+				{
+					"id": 22,
+					"bone": "head",
+					"offsetx": -0.4,
+					"offsety": 0.4,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.13,
+					"variety": 0
+				}
+			]
+		},
+		{
+			"id": 9,
+			"filename": "gfx/items/wearable/nvg_wearmodel.b3d",
+			"texture": "gfx/items/night_vision_goggles_red.png",
+			"rigged": 0,
+			"variety": 0,
+			"sounds": [],
+			"presets": [
+				{
+					"id": 21,
+					"bone": "head",
+					"offsetx": -0.4,
+					"offsety": 0.4,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.13,
+					"variety": 0
+				},
+				{
+					"id": 22,
+					"bone": "head",
+					"offsetx": -0.4,
+					"offsety": 0.4,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.13,
+					"variety": 0
+				}
+			]
+		},
+		{
+			"id": 10,
+			"filename": "gfx/items/wearable/nvg_wearmodel.b3d",
+			"texture": "gfx/items/night_vision_goggles_blue.png",
+			"rigged": 0,
+			"variety": 0,
+			"sounds": [],
+			"presets": [
+				{
+					"id": 21,
+					"bone": "head",
+					"offsetx": -0.4,
+					"offsety": 0.4,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.13,
+					"variety": 0
+				},
+				{
+					"id": 22,
+					"bone": "head",
+					"offsetx": -0.4,
+					"offsety": 0.4,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.13,
+					"variety": 0
+				}
+			]
+		},
+		{
+			"id": 11,
+			"filename": "gfx/items/wearable/scramble_gear_wearmodel.b3d",
+			"rigged": 0,
+			"variety": 0,
+			"sounds": [],
+			"presets": [
+				{
+					"id": 21,
+					"bone": "head",
+					"offsetx": -0.4,
+					"offsety": 0.4,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.13,
+					"variety": 0
+				},
+				{
+					"id": 22,
+					"bone": "head",
+					"offsetx": -0.4,
+					"offsety": 0.4,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.13,
+					"variety": 0
+				}
+			]
+		},
+		{
+			"id": 13,
+			"filename": "gfx/items/wearable/427_wearmodel.b3d",
+			"presets": [
+				{
+					"id": 18,
+					"bone": "chest",
+					"offsetx": -0.85,
+					"offsety": 1.0,
+					"offsetz": 0.0,
+					"offsetpitch": 80.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.13
+				},
+				{
+					"id": 19,
+					"bone": "chest",
+					"offsetx": -0.85,
+					"offsety": 1.0,
+					"offsetz": 0.0,
+					"offsetpitch": 80.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.13
+				},
+				{
+					"id": 20,
+					"bone": "chest",
+					"offsetx": -0.85,
+					"offsety": 1.0,
+					"offsetz": 0.0,
+					"offsetpitch": 80.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.13
+				},
+				{
+					"id": 21,
+					"bone": "chest",
+					"offsetx": -0.85,
+					"offsety": 1.0,
+					"offsetz": 0.0,
+					"offsetpitch": 80.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.13
+				},
+				{
+					"id": 22,
+					"bone": "chest",
+					"offsetx": -0.85,
+					"offsety": 1.0,
+					"offsetz": 0.0,
+					"offsetpitch": 80.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.13
+				}
+			]
+		},
+		{
+			"id": 14,
+			"filename": "gfx/items/scp_268.b3d",
+			"presets": [
+				{
+					"id": 18,
+					"bone": "head",
+					"offsetx": -0.15,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.7
+				},
+				{
+					"id": 19,
+					"bone": "head",
+					"offsetx": -0.15,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.7
+				},
+				{
+					"id": 20,
+					"bone": "head",
+					"offsetx": -0.15,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.7
+				},
+				{
+					"id": 21,
+					"bone": "head",
+					"offsetx": -0.15,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.7
+				},
+				{
+					"id": 22,
+					"bone": "head",
+					"offsetx": -0.15,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.7
+				}
+			]
+		},
+		{
+			"id": 15,
+			"filename": "gfx/items/scp_268.b3d",
+			"presets": [
+				{
+					"id": 18,
+					"bone": "head",
+					"offsetx": -0.15,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.7
+				},
+				{
+					"id": 19,
+					"bone": "head",
+					"offsetx": -0.15,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.7
+				},
+				{
+					"id": 20,
+					"bone": "head",
+					"offsetx": -0.15,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.7
+				},
+				{
+					"id": 21,
+					"bone": "head",
+					"offsetx": -0.15,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.7
+				},
+				{
+					"id": 22,
+					"bone": "head",
+					"offsetx": -0.15,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.7
+				}
+			]
+		},
+		{
+			"id": 16,
+			"filename": "gfx/items/scp_268.b3d",
+			"presets": [
+				{
+					"id": 18,
+					"bone": "head",
+					"offsetx": -0.15,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.7
+				},
+				{
+					"id": 19,
+					"bone": "head",
+					"offsetx": -0.15,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.7
+				},
+				{
+					"id": 20,
+					"bone": "head",
+					"offsetx": -0.15,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.7
+				},
+				{
+					"id": 21,
+					"bone": "head",
+					"offsetx": -0.15,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.7
+				},
+				{
+					"id": 22,
+					"bone": "head",
+					"offsetx": -0.15,
+					"offsety": 0.6,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.7
+				}
+			]
+		},
+		{
+			"id": 17,
+			"filename": "gfx/items/scp_714.b3d",
+			"presets": [
+				{
+					"id": 18,
+					"bone": "f_index_01_R",
+					"offsetx": 0.0,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 2.0
+				},
+				{
+					"id": 19,
+					"bone": "f_index_01_R",
+					"offsetx": 0.0,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 2.0
+				},
+				{
+					"id": 20,
+					"bone": "f_index_01_R",
+					"offsetx": 0.0,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 2.0
+				},
+				{
+					"id": 21,
+					"bone": "f_index_01_R",
+					"offsetx": 0.0,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 2.0
+				},
+				{
+					"id": 22,
+					"bone": "f_index_01_R",
+					"offsetx": 0.0,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 2.0
+				}
+			]
+		},
+		{
+			"id": 18,
+			"filename": "gfx/items/scp_714.b3d",
+			"presets": [
+				{
+					"id": 18,
+					"bone": "f_index_01_R",
+					"offsetx": 0.0,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 2.0
+				},
+				{
+					"id": 19,
+					"bone": "f_index_01_R",
+					"offsetx": 0.0,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 2.0
+				},
+				{
+					"id": 20,
+					"bone": "f_index_01_R",
+					"offsetx": 0.0,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 2.0
+				},
+				{
+					"id": 21,
+					"bone": "f_index_01_R",
+					"offsetx": 0.0,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 2.0
+				},
+				{
+					"id": 22,
+					"bone": "f_index_01_R",
+					"offsetx": 0.0,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 2.0
+				}
+			]
+		},
+		{
+			"id": 19,
+			"filename": "gfx/items/m4a1_wm.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				}
+			]
+		},
+		{
+			"id": 20,
+			"filename": "gfx/items/glock_wm.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				}
+			]
+		},
+		{
+			"id": 21,
+			"filename": "gfx/items/m60_wm.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				}
+			]
+		},
+		{
+			"id": 22,
+			"filename": "gfx/items/sr556_wm.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				}
+			]
+		},
+		{
+			"id": 23,
+			"filename": "gfx/items/mp5_wm.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				}
+			]
+		},
+		{
+			"id": 24,
+			"filename": "gfx/items/fiveseven_wm.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				}
+			]
+		},
+		{
+			"id": 25,
+			"filename": "gfx/items/kriss_vector_wm.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				}
+			]
+		},
+		{
+			"id": 26,
+			"filename": "gfx/items/handcuffs_wm.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.0,
+					"offsety": 0.3,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 0.05
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.0,
+					"offsety": 0.3,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 0.05
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.0,
+					"offsety": 0.3,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 0.05
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.0,
+					"offsety": 0.3,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 0.05
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.0,
+					"offsety": 0.3,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 0.05
+				}
+			]
+		},
+		{
+			"id": 27,
+			"filename": "gfx/items/handcuffs_wm.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.0,
+					"offsety": 0.3,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 0.05
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.0,
+					"offsety": 0.3,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 0.05
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.0,
+					"offsety": 0.3,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 0.05
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.0,
+					"offsety": 0.3,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 0.05
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.0,
+					"offsety": 0.3,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 0.0,
+					"offsetroll": 0.0,
+					"scale": 0.05
+				}
+			]
+		},
+		{
+			"id": 28,
+			"filename": "gfx/npcs/scp_035_smile.b3d",
+			"presets": [
+				{
+					"id": 18,
+					"bone": "head",
+					"offsetx": -0.7,
+					"offsety": -0.4,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": -90.0,
+					"offsetroll": 0.0,
+					"scale": 0.14
+				},
+				{
+					"id": 19,
+					"bone": "head",
+					"offsetx": -0.7,
+					"offsety": -0.4,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": -90.0,
+					"offsetroll": 0.0,
+					"scale": 0.14
+				},
+				{
+					"id": 20,
+					"bone": "head",
+					"offsetx": -0.7,
+					"offsety": -0.4,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": -90.0,
+					"offsetroll": 0.0,
+					"scale": 0.14
+				},
+				{
+					"id": 21,
+					"bone": "head",
+					"offsetx": -0.7,
+					"offsety": -0.4,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": -90.0,
+					"offsetroll": 0.0,
+					"scale": 0.14
+				},
+				{
+					"id": 22,
+					"bone": "head",
+					"offsetx": -0.7,
+					"offsety": -0.4,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": -90.0,
+					"offsetroll": 0.0,
+					"scale": 0.14
+				}
+			]
+		},
+		{
+			"id": 29,
+			"filename": "gfx/items/heavy_helmet.b3d",
+			"presets": [
+				{
+					"id": 18,
+					"bone": "head",
+					"offsetx": 0.2,
+					"offsety": 0.18,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.14
+				},
+				{
+					"id": 19,
+					"bone": "head",
+					"offsetx": 0.2,
+					"offsety": 0.18,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.14
+				},
+				{
+					"id": 20,
+					"bone": "head",
+					"offsetx": 0.2,
+					"offsety": 0.18,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.14
+				},
+				{
+					"id": 21,
+					"bone": "head",
+					"offsetx": 0.2,
+					"offsety": 0.18,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.14
+				},
+				{
+					"id": 22,
+					"bone": "head",
+					"offsetx": 0.2,
+					"offsety": 0.18,
+					"offsetz": 0.0,
+					"offsetpitch": 0.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 0.0,
+					"scale": 0.14
+				}
+			]
+		},
+		{
+			"id": 30,
+			"filename": "gfx/items/p90_wm.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				}
+			]
+		},
+		{
+			"id": 31,
+			"filename": "gfx/items/mp7_wm.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				}
+			]
+		},
+		{
+			"id": 32,
+			"filename": "gfx/items/m134_wm.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				}
+			]
+		},
+		{
+			"id": 38,
+			"filename": "gfx/items/remington_wm.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.87467,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				}
+			]
+		},
+		{
+			"id": 39,
+			"filename": "gfx/items/rpg_wm.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.353485,
+					"offsety": 0.0,
+					"offsetz": 0.0,
+					"offsetpitch": 110.0,
+					"offsetyaw": 90.0,
+					"offsetroll": 90.0,
+					"scale": 0.55
+				}
+			]
+		},
+		{
+			"id": 40,
+			"filename": "gfx/items/g36_wm.b3d",
+			"rigged": 1,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.241,
+					"offsety": 1.24,
+					"offsetz": -0.074,
+					"offsetpitch": 70,
+					"offsetyaw": -80,
+					"offsetroll": -97,
+					"scale": 0.5
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.241,
+					"offsety": 1.24,
+					"offsetz": -0.074,
+					"offsetpitch": 70,
+					"offsetyaw": -80,
+					"offsetroll": -97,
+					"scale": 0.5
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.241,
+					"offsety": 1.24,
+					"offsetz": -0.074,
+					"offsetpitch": 70,
+					"offsetyaw": -80,
+					"offsetroll": -97,
+					"scale": 0.5
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.241,
+					"offsety": 1.24,
+					"offsetz": -0.074,
+					"offsetpitch": 70,
+					"offsetyaw": -80,
+					"offsetroll": -97,
+					"scale": 0.5
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.241,
+					"offsety": 1.24,
+					"offsetz": -0.074,
+					"offsetpitch": 70,
+					"offsetyaw": -80,
+					"offsetroll": -97,
+					"scale": 0.5
+				}
+			]
+		},
+		{
+			"id": 502,
+			"filename": "gfx/items/emp_wm.b3d",
+			"rigged": 1,
+			"playeranimation": 0,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_L",
+					"offsetx": -0.108,
+					"offsety": 0.206,
+					"offsetz": 0.22,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 0,
+					"scale": 0.131
+				},
+				{
+					"id": 19,
+					"bone": "hand_L",
+					"offsetx": -0.108,
+					"offsety": 0.206,
+					"offsetz": 0.22,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 0,
+					"scale": 0.131
+				},
+				{
+					"id": 20,
+					"bone": "hand_L",
+					"offsetx": -0.108,
+					"offsety": 0.206,
+					"offsetz": 0.22,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 0,
+					"scale": 0.131
+				},
+				{
+					"id": 21,
+					"bone": "hand_L",
+					"offsetx": -0.108,
+					"offsety": 0.206,
+					"offsetz": 0.22,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 0,
+					"scale": 0.131
+				},
+				{
+					"id": 22,
+					"bone": "hand_L",
+					"offsetx": -0.108,
+					"offsety": 0.206,
+					"offsetz": 0.22,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 0,
+					"scale": 0.131
+				}
+			]
+		},
+		{
+			"id": 503,
+			"filename": "gfx/items/stemtex_wm.b3d",
+			"rigged": 1,
+			"playeranimation": 0,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_L",
+					"offsetx": -0.108,
+					"offsety": 0.206,
+					"offsetz": 0.22,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 0,
+					"scale": 0.131
+				},
+				{
+					"id": 19,
+					"bone": "hand_L",
+					"offsetx": -0.108,
+					"offsety": 0.206,
+					"offsetz": 0.22,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 0,
+					"scale": 0.131
+				},
+				{
+					"id": 20,
+					"bone": "hand_L",
+					"offsetx": -0.108,
+					"offsety": 0.206,
+					"offsetz": 0.22,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 0,
+					"scale": 0.131
+				},
+				{
+					"id": 21,
+					"bone": "hand_L",
+					"offsetx": -0.108,
+					"offsety": 0.206,
+					"offsetz": 0.22,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 0,
+					"scale": 0.131
+				},
+				{
+					"id": 22,
+					"bone": "hand_L",
+					"offsetx": -0.108,
+					"offsety": 0.206,
+					"offsetz": 0.22,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 0,
+					"scale": 0.131
+				}
+			]
+		},
+		{
+			"id": 504,
+			"filename": "gfx/items/m9_wm.b3d",
+			"rigged": 1,
+			"playeranimation": 0,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_R",
+					"offsetx": 0.15,
+					"offsety": 0.428,
+					"offsetz": -0.17,
+					"offsetpitch": 0,
+					"offsetyaw": 88.55,
+					"offsetroll": -69.51,
+					"scale": 0.5629
+				},
+				{
+					"id": 19,
+					"bone": "hand_R",
+					"offsetx": 0.15,
+					"offsety": 0.428,
+					"offsetz": -0.17,
+					"offsetpitch": 0,
+					"offsetyaw": 88.55,
+					"offsetroll": -69.51,
+					"scale": 0.5629
+				},
+				{
+					"id": 20,
+					"bone": "hand_R",
+					"offsetx": 0.15,
+					"offsety": 0.428,
+					"offsetz": -0.17,
+					"offsetpitch": 0,
+					"offsetyaw": 88.55,
+					"offsetroll": -69.51,
+					"scale": 0.5629
+				},
+				{
+					"id": 21,
+					"bone": "hand_R",
+					"offsetx": 0.15,
+					"offsety": 0.428,
+					"offsetz": -0.17,
+					"offsetpitch": 0,
+					"offsetyaw": 88.55,
+					"offsetroll": -69.51,
+					"scale": 0.5629
+				},
+				{
+					"id": 22,
+					"bone": "hand_R",
+					"offsetx": 0.15,
+					"offsety": 0.428,
+					"offsetz": -0.17,
+					"offsetpitch": 0,
+					"offsetyaw": 88.55,
+					"offsetroll": -69.51,
+					"scale": 0.5629
+				}
+			]
+		},
+		{
+			"id": 505,
+			"filename": "gfx/items/m69_wm.b3d",
+			"rigged": 1,
+			"playeranimation": 0,
+			"presets": [
+				{
+					"id": 18,
+					"bone": "hand_L",
+					"offsetx": -0.108,
+					"offsety": 0.206,
+					"offsetz": 0.22,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 0,
+					"scale": 0.131
+				},
+				{
+					"id": 19,
+					"bone": "hand_L",
+					"offsetx": -0.108,
+					"offsety": 0.206,
+					"offsetz": 0.22,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 0,
+					"scale": 0.131
+				},
+				{
+					"id": 20,
+					"bone": "hand_L",
+					"offsetx": -0.108,
+					"offsety": 0.206,
+					"offsetz": 0.22,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 0,
+					"scale": 0.131
+				},
+				{
+					"id": 21,
+					"bone": "hand_L",
+					"offsetx": -0.108,
+					"offsety": 0.206,
+					"offsetz": 0.22,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 0,
+					"scale": 0.131
+				},
+				{
+					"id": 22,
+					"bone": "hand_L",
+					"offsetx": -0.108,
+					"offsety": 0.206,
+					"offsetz": 0.22,
+					"offsetpitch": 0,
+					"offsetyaw": 0,
+					"offsetroll": 0,
+					"scale": 0.131
+				}
+			]
+		}
+	]
+}
